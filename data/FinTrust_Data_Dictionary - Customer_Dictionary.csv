@@ -1,0 +1,13 @@
+Field_Name,Dataset,Data_Type,Example,Definition,Business_Use,Modelling_Use
+Customer_ID,Customer,Text,FT-C00001,Unique synthetic customer identifier,Primary key; joins to transactions,Yes
+Customer_Name,Customer,Text,Amina Okafor,Synthetic customer display name,Portfolio/demo identification only,No
+Age,Customer,Integer,34,Customer age,Demographic analysis,Yes
+Gender,Customer,Category,Female,Customer-reported gender category,Demographic analysis,Yes
+City,Customer,Category,Lagos,Customer location,Geographic analysis,Yes
+Customer_Segment,Customer,Category,Everyday,Assigned customer segment,Segmentation and comparison,Yes
+Account_Type,Customer,Category,Savings,Primary account type,Account analysis,Yes
+Tenure_Months,Customer,Integer,24,Months since account relationship began,Customer lifecycle analysis,Yes
+Digital_Engagement_Score,Customer,Decimal,72.5,Synthetic 10–100 engagement score,Digital behaviour analysis,Yes
+Monthly_Income_Band,Customer,Category,250k-499k,Synthetic income band,Segment analysis; not personal financial advice,Yes
+Preferred_Channel,Customer,Category,Mobile App,Preferred banking channel,Channel analysis,Yes
+Account_Status,Customer,Category,Active,Current synthetic account status,Operational analysis,Yes

@@ -1,0 +1,1501 @@
+Customer_ID,Customer_Name,Age,Gender,City,Customer_Segment,Account_Type,Tenure_Months,Digital_Engagement_Score,Monthly_Income_Band,Preferred_Channel,Account_Status
+FT-C00001,Ibrahim Adeyemi,56,Male,Lagos,Premium,Savings,55,84.9,500k-999k,Mobile App,Active
+FT-C00002,Yusuf Mohammed,46,Male,Kano,Everyday,Current,79,50.7,500k-999k,Mobile App,Active
+FT-C00003,Emeka Adeyemi,32,Female,Port Harcourt,Everyday,Savings,43,56.1,1m+,Mobile App,Active
+FT-C00004,David Williams,60,Female,Benin City,Premium,Premium,44,54,500k-999k,Mobile App,Dormant
+FT-C00005,Blessing Adeyemi,25,Male,Kaduna,Premium,Savings,68,85.1,500k-999k,Mobile App,Active
+FT-C00006,Samuel Eze,38,Male,Lagos,Everyday,Savings,33,36.6,500k-999k,Mobile App,Active
+FT-C00007,Tunde Williams,56,Male,Kaduna,Everyday,Savings,24,97.5,Below 100k,Mobile App,Active
+FT-C00008,Yusuf Eze,36,Female,Lagos,SME,Savings,36,62.5,100k-249k,USSD,Active
+FT-C00009,Samuel Mohammed,40,Male,Lagos,Everyday,Premium,10,79.1,500k-999k,Web,Active
+FT-C00010,Blessing Usman,28,Male,Lagos,Everyday,Savings,20,77.5,250k-499k,Mobile App,Active
+FT-C00011,Chiamaka Bello,28,Male,Abuja,Premium,Savings,75,70.7,Below 100k,Web,Dormant
+FT-C00012,Emeka Nwosu,41,Male,Ibadan,Everyday,Savings,12,57.2,100k-249k,Web,Active
+FT-C00013,Ada Mohammed,53,Female,Lagos,Everyday,Savings,62,90.4,100k-249k,Mobile App,Dormant
+FT-C00014,Ada Nwosu,57,Female,Lagos,Everyday,Savings,18,58.7,250k-499k,Web,Active
+FT-C00015,Chiamaka Adeyemi,41,Male,Kaduna,Student,Current,94,54.8,500k-999k,Mobile App,Active
+FT-C00016,Yusuf Adeyemi,20,Male,Benin City,Premium,Savings,63,83.8,1m+,Web,Active
+FT-C00017,Daniel Eze,39,Male,Benin City,Premium,Premium,84,70.6,500k-999k,Mobile App,Active
+FT-C00018,Mariam Garba,19,Male,Enugu,SME,Savings,25,92.4,500k-999k,Mobile App,Active
+FT-C00019,Tunde Okafor,41,Male,Kano,Student,Savings,12,66.9,250k-499k,Mobile App,Active
+FT-C00020,Daniel Adeyemi,61,Male,Lagos,Everyday,Current,21,56.3,100k-249k,USSD,Active
+FT-C00021,Mariam Ibrahim,47,Female,Abuja,Everyday,Current,25,72.9,100k-249k,Web,Active
+FT-C00022,Fatima Bello,55,Male,Kano,Premium,Savings,11,59.9,250k-499k,Mobile App,Active
+FT-C00023,Tunde Ojo,19,Female,Lagos,Student,Current,64,56.8,Below 100k,Mobile App,Dormant
+FT-C00024,David Eze,38,Female,Ibadan,Premium,Savings,73,83,250k-499k,Mobile App,Active
+FT-C00025,David Okafor,50,Prefer not to say,Lagos,Premium,Savings,50,100,250k-499k,Mobile App,Active
+FT-C00026,David Eze,29,Female,Lagos,Everyday,Premium,62,63.6,100k-249k,Mobile App,Active
+FT-C00027,Emeka Eze,39,Female,Port Harcourt,Everyday,Savings,89,50.5,1m+,Mobile App,Active
+FT-C00028,Blessing Garba,61,Female,Ibadan,Everyday,Savings,96,65.2,250k-499k,USSD,Active
+FT-C00029,Grace Adebayo,42,Male,Port Harcourt,Everyday,Current,49,77.3,100k-249k,Web,Active
+FT-C00030,Daniel Bello,44,Female,Ibadan,Everyday,Premium,14,72.6,250k-499k,Mobile App,Active
+FT-C00031,Samuel Usman,59,Female,Lagos,Premium,Savings,1,89.5,250k-499k,Mobile App,Active
+FT-C00032,Tunde Eze,45,Female,Lagos,Premium,Savings,81,80,100k-249k,USSD,Active
+FT-C00033,David Nwosu,33,Female,Enugu,Everyday,Savings,25,48.1,Below 100k,Web,Active
+FT-C00034,Chiamaka Ibrahim,32,Female,Ibadan,Premium,Premium,59,59.1,250k-499k,Web,Active
+FT-C00035,Fatima Adeyemi,64,Female,Lagos,Premium,Premium,72,43.1,1m+,USSD,Active
+FT-C00036,Emeka Eze,61,Male,Benin City,Everyday,Savings,69,88.6,250k-499k,Web,Active
+FT-C00037,Mariam Okafor,20,Female,Lagos,Premium,Savings,5,32.1,500k-999k,Mobile App,Dormant
+FT-C00038,Chiamaka Usman,54,Female,Abuja,Student,Savings,19,44.9,500k-999k,Mobile App,Dormant
+FT-C00039,Tunde Adebayo,24,Female,Lagos,Student,Current,23,58.8,Below 100k,USSD,Active
+FT-C00040,Amina Williams,38,Female,Kano,Premium,Current,9,78.2,250k-499k,Mobile App,Active
+FT-C00041,Fatima Adebayo,26,Male,Ibadan,Premium,Current,94,58.6,100k-249k,Mobile App,Restricted
+FT-C00042,Chiamaka Okafor,56,Male,Lagos,Everyday,Premium,50,61.4,100k-249k,Mobile App,Active
+FT-C00043,Samuel Usman,35,Female,Enugu,Everyday,Savings,16,61.8,250k-499k,Web,Active
+FT-C00044,Amina Ojo,21,Female,Abuja,Everyday,Savings,33,71.1,500k-999k,USSD,Active
+FT-C00045,Grace Usman,42,Female,Lagos,SME,Savings,2,46,Below 100k,Mobile App,Active
+FT-C00046,Blessing Adeyemi,31,Male,Lagos,Everyday,Savings,14,51,1m+,Mobile App,Active
+FT-C00047,Ibrahim Adeyemi,26,Male,Lagos,Everyday,Savings,1,98.3,500k-999k,USSD,Active
+FT-C00048,Ibrahim Adeyemi,43,Male,Lagos,SME,Savings,90,75.2,1m+,Mobile App,Active
+FT-C00049,Ada Okafor,19,Female,Port Harcourt,SME,Current,58,81.7,100k-249k,Mobile App,Active
+FT-C00050,Samuel Bello,37,Male,Benin City,Student,Premium,89,69,1m+,USSD,Active
+FT-C00051,Emeka Eze,45,Female,Port Harcourt,Everyday,Savings,16,65.5,100k-249k,Mobile App,Active
+FT-C00052,Ibrahim Eze,64,Female,Lagos,Everyday,Savings,79,76.2,Below 100k,Mobile App,Restricted
+FT-C00053,Grace Mohammed,24,Female,Lagos,Everyday,Savings,90,81.1,500k-999k,Web,Active
+FT-C00054,Tunde Garba,61,Female,Lagos,Everyday,Current,47,83.2,250k-499k,Mobile App,Active
+FT-C00055,Samuel Garba,25,Male,Abuja,Everyday,Current,44,65.7,250k-499k,USSD,Active
+FT-C00056,Grace Usman,64,Male,Kano,Premium,Savings,80,85.2,250k-499k,Mobile App,Active
+FT-C00057,Tunde Mohammed,52,Female,Lagos,SME,Savings,14,23.6,Below 100k,Mobile App,Active
+FT-C00058,Ibrahim Bello,31,Male,Kano,Everyday,Savings,93,84.1,250k-499k,Mobile App,Active
+FT-C00059,Yusuf Garba,34,Prefer not to say,Enugu,Student,Savings,24,60.3,100k-249k,Mobile App,Active
+FT-C00060,Grace Ojo,53,Male,Abuja,Premium,Savings,55,78,250k-499k,Web,Dormant
+FT-C00061,Samuel Eze,57,Male,Benin City,Everyday,Current,15,56.3,100k-249k,Web,Active
+FT-C00062,Ibrahim Eze,21,Male,Port Harcourt,Premium,Premium,83,44.1,1m+,USSD,Active
+FT-C00063,Fatima Okafor,19,Prefer not to say,Ibadan,Everyday,Savings,72,74.1,250k-499k,Mobile App,Active
+FT-C00064,Blessing Okafor,23,Male,Port Harcourt,Everyday,Current,34,41,500k-999k,Web,Active
+FT-C00065,Samuel Okafor,59,Female,Abuja,Student,Premium,2,60.8,1m+,Mobile App,Active
+FT-C00066,Daniel Usman,21,Female,Lagos,Everyday,Savings,27,53.4,250k-499k,Web,Active
+FT-C00067,Yusuf Eze,46,Male,Lagos,SME,Savings,74,64.8,Below 100k,Web,Active
+FT-C00068,Blessing Usman,35,Female,Lagos,Everyday,Premium,87,82.3,Below 100k,Mobile App,Active
+FT-C00069,Yusuf Eze,43,Male,Port Harcourt,Premium,Savings,72,59.2,250k-499k,Mobile App,Active
+FT-C00070,Mariam Williams,61,Female,Lagos,Everyday,Premium,92,73.7,100k-249k,Mobile App,Active
+FT-C00071,Blessing Mohammed,51,Female,Enugu,Everyday,Premium,23,81.3,250k-499k,Mobile App,Active
+FT-C00072,Daniel Bello,27,Female,Kano,Everyday,Current,68,57.1,100k-249k,USSD,Active
+FT-C00073,Tunde Ibrahim,53,Female,Abuja,Premium,Current,14,57.3,100k-249k,Mobile App,Active
+FT-C00074,Blessing Ojo,31,Male,Lagos,Student,Current,63,92.6,250k-499k,Mobile App,Active
+FT-C00075,Grace Adebayo,48,Male,Enugu,SME,Current,93,66.6,1m+,Mobile App,Active
+FT-C00076,Emeka Bello,65,Male,Benin City,Premium,Savings,65,77.2,250k-499k,Web,Active
+FT-C00077,Ibrahim Okafor,32,Male,Kano,Student,Savings,68,77,1m+,Mobile App,Active
+FT-C00078,Daniel Usman,25,Female,Lagos,Student,Savings,63,46.4,1m+,Mobile App,Active
+FT-C00079,Mariam Garba,31,Male,Abuja,Student,Current,96,54.3,100k-249k,Mobile App,Active
+FT-C00080,Zainab Nwosu,40,Male,Lagos,Premium,Savings,90,74.8,100k-249k,Web,Active
+FT-C00081,Daniel Garba,57,Male,Lagos,Premium,Savings,81,30.8,500k-999k,Mobile App,Active
+FT-C00082,Grace Williams,38,Female,Kano,Student,Savings,87,64.2,500k-999k,Web,Active
+FT-C00083,Grace Adebayo,33,Male,Kano,Everyday,Current,64,52.4,250k-499k,Mobile App,Active
+FT-C00084,David Adebayo,62,Male,Port Harcourt,Student,Premium,32,88,1m+,Mobile App,Active
+FT-C00085,Tunde Adebayo,35,Prefer not to say,Enugu,Premium,Premium,79,74.2,Below 100k,Mobile App,Dormant
+FT-C00086,Zainab Nwosu,64,Male,Port Harcourt,Everyday,Savings,13,89.4,100k-249k,Mobile App,Active
+FT-C00087,David Adebayo,41,Female,Abuja,Everyday,Premium,66,67.3,250k-499k,Mobile App,Active
+FT-C00088,Daniel Adeyemi,43,Male,Abuja,Everyday,Current,19,65.9,250k-499k,Mobile App,Dormant
+FT-C00089,Ada Bello,42,Male,Kaduna,Premium,Savings,24,62.5,Below 100k,Mobile App,Active
+FT-C00090,Fatima Usman,62,Female,Lagos,Student,Savings,88,58.9,100k-249k,Mobile App,Active
+FT-C00091,Emeka Usman,58,Male,Kaduna,Everyday,Savings,11,100,Below 100k,Mobile App,Active
+FT-C00092,Grace Okafor,46,Male,Benin City,Student,Premium,59,82.5,250k-499k,USSD,Active
+FT-C00093,Blessing Garba,32,Female,Lagos,SME,Savings,86,48.8,500k-999k,Mobile App,Active
+FT-C00094,Ibrahim Mohammed,62,Female,Port Harcourt,Everyday,Savings,15,100,500k-999k,Web,Dormant
+FT-C00095,Mariam Garba,18,Female,Enugu,SME,Current,10,60.7,250k-499k,Web,Active
+FT-C00096,Grace Adebayo,42,Female,Port Harcourt,SME,Savings,41,73.8,250k-499k,Mobile App,Active
+FT-C00097,Mariam Okafor,24,Female,Enugu,Student,Savings,27,84.9,250k-499k,Web,Active
+FT-C00098,Yusuf Ojo,26,Male,Kaduna,Student,Current,60,40.3,Below 100k,Mobile App,Active
+FT-C00099,Daniel Adeyemi,41,Female,Abuja,SME,Savings,73,53.1,100k-249k,Mobile App,Active
+FT-C00100,Yusuf Mohammed,18,Female,Abuja,Premium,Current,52,97.7,100k-249k,Mobile App,Active
+FT-C00101,Blessing Ojo,61,Male,Kaduna,Everyday,Savings,28,64,500k-999k,Mobile App,Active
+FT-C00102,Fatima Adeyemi,25,Male,Ibadan,Student,Current,65,86,1m+,Mobile App,Active
+FT-C00103,Tunde Mohammed,41,Female,Lagos,Premium,Current,17,59.8,250k-499k,Mobile App,Active
+FT-C00104,Ibrahim Okafor,28,Female,Lagos,Premium,Savings,95,66.3,250k-499k,Mobile App,Active
+FT-C00105,Chiamaka Nwosu,34,Female,Port Harcourt,Everyday,Savings,44,100,Below 100k,Mobile App,Active
+FT-C00106,David Mohammed,25,Male,Kaduna,Student,Current,10,75.9,250k-499k,Mobile App,Active
+FT-C00107,Daniel Usman,52,Female,Benin City,Everyday,Current,63,61.8,250k-499k,Mobile App,Dormant
+FT-C00108,Ibrahim Ojo,52,Male,Ibadan,SME,Current,93,55.7,100k-249k,Mobile App,Active
+FT-C00109,Yusuf Adebayo,50,Male,Lagos,Everyday,Premium,82,57.3,100k-249k,Mobile App,Active
+FT-C00110,Zainab Williams,22,Female,Lagos,Everyday,Savings,47,90.3,500k-999k,Mobile App,Active
+FT-C00111,Ada Ojo,59,Male,Enugu,Everyday,Savings,38,81.8,500k-999k,Mobile App,Active
+FT-C00112,Chiamaka Adebayo,56,Prefer not to say,Lagos,Everyday,Premium,70,47.3,500k-999k,USSD,Active
+FT-C00113,Ibrahim Adeyemi,58,Female,Lagos,Student,Savings,76,69.6,500k-999k,Web,Active
+FT-C00114,Samuel Eze,45,Male,Lagos,SME,Savings,53,66.8,1m+,Mobile App,Active
+FT-C00115,Amina Adebayo,24,Male,Ibadan,Student,Savings,78,73.7,100k-249k,Web,Active
+FT-C00116,Blessing Adebayo,26,Male,Kaduna,Everyday,Savings,44,57.1,Below 100k,Mobile App,Dormant
+FT-C00117,Chiamaka Okafor,25,Male,Lagos,Everyday,Savings,74,87.8,100k-249k,Mobile App,Active
+FT-C00118,Ibrahim Usman,29,Male,Abuja,Student,Premium,54,68,Below 100k,USSD,Active
+FT-C00119,David Okafor,51,Male,Ibadan,SME,Savings,20,74.7,250k-499k,Mobile App,Dormant
+FT-C00120,Samuel Williams,50,Male,Kaduna,Premium,Savings,79,53.9,250k-499k,USSD,Active
+FT-C00121,Grace Williams,65,Male,Lagos,Premium,Premium,31,54.8,250k-499k,Mobile App,Active
+FT-C00122,Fatima Adebayo,40,Male,Port Harcourt,Everyday,Premium,7,100,100k-249k,Mobile App,Active
+FT-C00123,Emeka Nwosu,41,Male,Abuja,SME,Savings,58,100,500k-999k,Mobile App,Active
+FT-C00124,Blessing Ojo,54,Female,Enugu,Premium,Savings,10,66.7,Below 100k,Mobile App,Active
+FT-C00125,Daniel Garba,52,Female,Abuja,Everyday,Current,10,95.6,100k-249k,Mobile App,Active
+FT-C00126,Ada Garba,61,Female,Lagos,Everyday,Current,39,89.8,250k-499k,Mobile App,Active
+FT-C00127,Ibrahim Ibrahim,57,Female,Ibadan,SME,Current,28,56.7,500k-999k,Web,Active
+FT-C00128,Yusuf Ojo,39,Female,Kano,Everyday,Premium,30,55,100k-249k,Mobile App,Active
+FT-C00129,Zainab Garba,44,Male,Lagos,Everyday,Current,37,80,Below 100k,Mobile App,Active
+FT-C00130,Yusuf Adebayo,52,Female,Benin City,Premium,Savings,67,72.7,250k-499k,Mobile App,Active
+FT-C00131,Blessing Bello,18,Male,Lagos,Everyday,Current,43,60.8,Below 100k,USSD,Active
+FT-C00132,Ada Garba,52,Female,Port Harcourt,Everyday,Savings,79,81,Below 100k,Mobile App,Active
+FT-C00133,Chiamaka Adeyemi,54,Male,Abuja,Student,Current,85,42,250k-499k,Mobile App,Active
+FT-C00134,Amina Adebayo,64,Male,Kano,SME,Current,52,70.1,100k-249k,USSD,Active
+FT-C00135,Blessing Usman,31,Female,Abuja,Student,Savings,56,45.7,100k-249k,Mobile App,Dormant
+FT-C00136,David Ojo,20,Male,Enugu,SME,Savings,76,46.3,250k-499k,Mobile App,Active
+FT-C00137,Emeka Eze,18,Female,Kano,Premium,Savings,68,55.3,1m+,Web,Active
+FT-C00138,Amina Usman,22,Male,Ibadan,Student,Savings,9,74.5,1m+,Web,Active
+FT-C00139,Grace Garba,43,Female,Benin City,Everyday,Current,92,55.8,100k-249k,Mobile App,Active
+FT-C00140,Mariam Williams,31,Male,Kano,Student,Savings,23,46.1,100k-249k,Mobile App,Active
+FT-C00141,Emeka Eze,56,Female,Lagos,SME,Current,63,76.6,100k-249k,Web,Dormant
+FT-C00142,Grace Garba,44,Male,Abuja,Everyday,Savings,61,94.9,100k-249k,Mobile App,Active
+FT-C00143,Yusuf Williams,26,Male,Kaduna,Everyday,Current,40,79.5,250k-499k,USSD,Active
+FT-C00144,Fatima Adeyemi,32,Female,Lagos,Premium,Current,44,100,250k-499k,Mobile App,Active
+FT-C00145,Blessing Ojo,32,Female,Kano,Everyday,Current,86,93.4,250k-499k,Mobile App,Active
+FT-C00146,Ada Okafor,43,Female,Kaduna,Everyday,Savings,24,59.2,100k-249k,Mobile App,Active
+FT-C00147,Emeka Eze,59,Female,Lagos,Student,Premium,51,79.4,100k-249k,Web,Active
+FT-C00148,Zainab Adeyemi,30,Male,Ibadan,SME,Savings,58,66.4,250k-499k,USSD,Active
+FT-C00149,Chiamaka Mohammed,49,Female,Abuja,Everyday,Savings,90,87.1,100k-249k,Web,Active
+FT-C00150,Zainab Mohammed,56,Female,Port Harcourt,Everyday,Savings,94,66.3,250k-499k,USSD,Active
+FT-C00151,Emeka Eze,49,Female,Lagos,Everyday,Savings,33,53.8,250k-499k,Mobile App,Active
+FT-C00152,Tunde Williams,21,Male,Lagos,SME,Premium,16,92.7,250k-499k,Mobile App,Dormant
+FT-C00153,Zainab Eze,47,Female,Ibadan,Premium,Savings,22,73.7,250k-499k,Web,Active
+FT-C00154,Mariam Usman,54,Female,Benin City,Everyday,Current,57,56.1,250k-499k,USSD,Active
+FT-C00155,Grace Williams,40,Female,Kano,Premium,Current,62,59,100k-249k,Web,Active
+FT-C00156,Ada Adebayo,56,Female,Port Harcourt,Everyday,Savings,82,55.9,Below 100k,Web,Active
+FT-C00157,Yusuf Eze,62,Male,Lagos,Premium,Current,71,50,250k-499k,Mobile App,Active
+FT-C00158,Blessing Ojo,32,Female,Ibadan,SME,Savings,90,59.4,100k-249k,Mobile App,Active
+FT-C00159,Ibrahim Garba,60,Female,Lagos,Premium,Savings,72,74.7,250k-499k,USSD,Active
+FT-C00160,Mariam Adebayo,46,Male,Enugu,Student,Savings,70,69.2,500k-999k,Mobile App,Active
+FT-C00161,Ada Nwosu,53,Male,Benin City,Everyday,Premium,30,60.1,1m+,Mobile App,Active
+FT-C00162,David Okafor,30,Female,Kano,Student,Premium,23,94.9,1m+,Web,Active
+FT-C00163,Chiamaka Garba,49,Male,Kaduna,Student,Savings,32,31.8,Below 100k,Mobile App,Dormant
+FT-C00164,Ibrahim Williams,24,Male,Lagos,Everyday,Savings,86,73.5,1m+,Web,Active
+FT-C00165,Grace Nwosu,39,Female,Kano,Premium,Current,57,65.4,250k-499k,Mobile App,Active
+FT-C00166,Zainab Ojo,45,Male,Lagos,Everyday,Savings,9,50.5,250k-499k,Web,Dormant
+FT-C00167,Amina Ibrahim,19,Male,Enugu,Student,Premium,31,74.6,Below 100k,Mobile App,Active
+FT-C00168,Grace Bello,59,Female,Lagos,Everyday,Savings,71,64,500k-999k,Mobile App,Active
+FT-C00169,Mariam Adeyemi,62,Female,Kano,SME,Savings,9,90.4,Below 100k,Mobile App,Active
+FT-C00170,Daniel Nwosu,23,Female,Enugu,Everyday,Current,13,83.6,500k-999k,Mobile App,Active
+FT-C00171,Ada Garba,45,Male,Lagos,Student,Savings,58,100,Below 100k,Mobile App,Active
+FT-C00172,Ibrahim Okafor,45,Prefer not to say,Abuja,Student,Premium,3,59.3,250k-499k,Mobile App,Dormant
+FT-C00173,Mariam Nwosu,61,Male,Kano,Student,Premium,35,93.1,100k-249k,Mobile App,Active
+FT-C00174,Daniel Nwosu,61,Female,Abuja,Everyday,Savings,21,47,100k-249k,Mobile App,Active
+FT-C00175,Mariam Adeyemi,37,Male,Lagos,Premium,Savings,64,66,Below 100k,Mobile App,Active
+FT-C00176,Ibrahim Ibrahim,47,Male,Lagos,Student,Premium,95,59.6,100k-249k,Mobile App,Active
+FT-C00177,Amina Williams,28,Female,Lagos,Everyday,Premium,52,78.8,Below 100k,Web,Active
+FT-C00178,Fatima Nwosu,45,Female,Benin City,Everyday,Savings,34,78.4,250k-499k,Mobile App,Active
+FT-C00179,Samuel Nwosu,42,Male,Port Harcourt,Premium,Current,96,51.8,250k-499k,USSD,Active
+FT-C00180,Zainab Okafor,56,Female,Lagos,Premium,Savings,35,79.8,500k-999k,Web,Active
+FT-C00181,Samuel Adebayo,50,Male,Abuja,Everyday,Savings,15,61.2,250k-499k,Web,Active
+FT-C00182,Zainab Williams,18,Female,Abuja,Everyday,Premium,96,53.3,Below 100k,Web,Active
+FT-C00183,Fatima Ojo,44,Female,Lagos,Everyday,Savings,6,67.8,100k-249k,Mobile App,Active
+FT-C00184,Grace Garba,30,Female,Abuja,Student,Premium,85,41.4,100k-249k,Web,Active
+FT-C00185,Ibrahim Ojo,58,Female,Lagos,Premium,Savings,32,84.8,1m+,Mobile App,Active
+FT-C00186,Emeka Adeyemi,20,Male,Abuja,Student,Current,52,67,500k-999k,USSD,Dormant
+FT-C00187,Fatima Bello,56,Female,Kano,SME,Savings,83,67.4,100k-249k,USSD,Active
+FT-C00188,Blessing Bello,23,Male,Lagos,Premium,Savings,28,66.4,Below 100k,Mobile App,Active
+FT-C00189,Blessing Williams,25,Male,Ibadan,Everyday,Current,95,97.6,500k-999k,Mobile App,Active
+FT-C00190,Ada Bello,44,Male,Port Harcourt,Everyday,Savings,85,95.3,500k-999k,Mobile App,Active
+FT-C00191,Mariam Eze,26,Female,Port Harcourt,Everyday,Savings,64,92.3,500k-999k,Web,Active
+FT-C00192,Emeka Ibrahim,54,Male,Ibadan,SME,Savings,79,66.5,500k-999k,Mobile App,Active
+FT-C00193,Fatima Williams,50,Male,Port Harcourt,Premium,Savings,78,47.9,250k-499k,Mobile App,Dormant
+FT-C00194,Daniel Adebayo,59,Female,Enugu,Everyday,Current,19,67.7,Below 100k,Mobile App,Active
+FT-C00195,Zainab Garba,61,Female,Ibadan,Everyday,Savings,15,73.7,250k-499k,Mobile App,Active
+FT-C00196,Zainab Usman,41,Male,Port Harcourt,Premium,Savings,6,82.6,250k-499k,USSD,Active
+FT-C00197,Grace Eze,32,Male,Benin City,Premium,Savings,73,73.6,250k-499k,Web,Active
+FT-C00198,Amina Okafor,49,Female,Ibadan,Everyday,Savings,84,49.5,250k-499k,Mobile App,Active
+FT-C00199,David Ibrahim,49,Male,Lagos,SME,Savings,38,58.4,100k-249k,Mobile App,Active
+FT-C00200,Amina Ojo,41,Male,Lagos,Premium,Savings,26,56.7,100k-249k,Mobile App,Active
+FT-C00201,Zainab Garba,58,Male,Lagos,Everyday,Savings,82,77.7,100k-249k,Mobile App,Active
+FT-C00202,Chiamaka Mohammed,29,Male,Enugu,SME,Current,92,78.1,Below 100k,Web,Active
+FT-C00203,Blessing Ojo,56,Male,Kano,Everyday,Current,51,80.5,100k-249k,Mobile App,Active
+FT-C00204,Yusuf Ojo,19,Female,Kaduna,SME,Savings,73,73.4,500k-999k,Mobile App,Active
+FT-C00205,Emeka Nwosu,20,Female,Ibadan,SME,Savings,96,30.9,500k-999k,USSD,Active
+FT-C00206,Daniel Adebayo,54,Female,Abuja,Student,Savings,53,36.9,100k-249k,USSD,Active
+FT-C00207,Blessing Okafor,34,Male,Lagos,Student,Savings,56,65.5,250k-499k,Mobile App,Active
+FT-C00208,Samuel Adeyemi,19,Male,Ibadan,Everyday,Savings,59,69.8,Below 100k,Mobile App,Active
+FT-C00209,Emeka Williams,19,Female,Port Harcourt,SME,Savings,70,90.6,250k-499k,Mobile App,Active
+FT-C00210,Tunde Nwosu,45,Male,Kaduna,Premium,Savings,78,69.4,100k-249k,Web,Active
+FT-C00211,Daniel Usman,40,Male,Lagos,Student,Savings,92,50.4,100k-249k,USSD,Active
+FT-C00212,Tunde Adebayo,54,Male,Port Harcourt,SME,Savings,58,79.9,500k-999k,Mobile App,Active
+FT-C00213,Yusuf Ibrahim,49,Female,Ibadan,SME,Savings,88,67.7,250k-499k,Mobile App,Active
+FT-C00214,Blessing Usman,50,Male,Ibadan,Student,Savings,13,60.8,Below 100k,USSD,Active
+FT-C00215,Zainab Williams,18,Female,Port Harcourt,Everyday,Savings,43,38.9,100k-249k,Web,Active
+FT-C00216,Daniel Bello,36,Female,Kano,SME,Savings,76,69.5,250k-499k,USSD,Active
+FT-C00217,Blessing Adeyemi,19,Female,Lagos,Premium,Savings,51,72.1,100k-249k,Mobile App,Active
+FT-C00218,Tunde Adeyemi,61,Female,Kano,SME,Savings,19,50.1,500k-999k,Mobile App,Active
+FT-C00219,Tunde Usman,43,Female,Ibadan,Student,Savings,21,81.4,250k-499k,Mobile App,Active
+FT-C00220,Daniel Usman,49,Male,Enugu,Everyday,Savings,91,79.8,250k-499k,Mobile App,Active
+FT-C00221,Fatima Williams,23,Female,Benin City,Everyday,Savings,83,68.9,250k-499k,Mobile App,Active
+FT-C00222,Blessing Eze,49,Male,Lagos,Premium,Savings,24,68.2,100k-249k,Mobile App,Dormant
+FT-C00223,Emeka Williams,21,Female,Lagos,Student,Savings,26,85,100k-249k,Mobile App,Active
+FT-C00224,Grace Adeyemi,28,Male,Kaduna,Everyday,Current,45,74.6,100k-249k,USSD,Active
+FT-C00225,Grace Adeyemi,34,Male,Port Harcourt,Premium,Savings,28,55.4,250k-499k,Mobile App,Active
+FT-C00226,Amina Usman,55,Female,Enugu,Everyday,Savings,82,64.4,100k-249k,Web,Active
+FT-C00227,Yusuf Eze,41,Female,Lagos,Student,Premium,29,78,500k-999k,Mobile App,Dormant
+FT-C00228,Zainab Nwosu,22,Female,Ibadan,Premium,Savings,17,31.4,100k-249k,Web,Active
+FT-C00229,Ibrahim Garba,51,Male,Benin City,Everyday,Savings,68,51.2,Below 100k,Mobile App,Active
+FT-C00230,Samuel Adebayo,23,Male,Kaduna,Everyday,Premium,44,80.3,Below 100k,Web,Active
+FT-C00231,Mariam Eze,39,Female,Lagos,Everyday,Current,61,89.8,Below 100k,Mobile App,Active
+FT-C00232,Blessing Williams,28,Male,Kano,Premium,Savings,93,86.4,100k-249k,Mobile App,Restricted
+FT-C00233,Chiamaka Adebayo,65,Female,Port Harcourt,Everyday,Savings,68,84.1,100k-249k,Web,Active
+FT-C00234,Emeka Bello,33,Female,Lagos,Everyday,Savings,74,70.3,Below 100k,Mobile App,Active
+FT-C00235,David Adebayo,50,Male,Ibadan,SME,Savings,25,49.5,250k-499k,Mobile App,Active
+FT-C00236,Amina Adebayo,26,Female,Ibadan,SME,Savings,95,64.5,250k-499k,USSD,Active
+FT-C00237,Ada Ojo,23,Male,Kaduna,Everyday,Savings,67,32.1,Below 100k,USSD,Active
+FT-C00238,Mariam Ibrahim,33,Female,Port Harcourt,SME,Savings,2,91.4,250k-499k,Mobile App,Active
+FT-C00239,Grace Nwosu,46,Prefer not to say,Lagos,Everyday,Premium,89,53.3,500k-999k,Mobile App,Active
+FT-C00240,David Eze,20,Female,Lagos,Premium,Premium,49,58.4,1m+,Mobile App,Dormant
+FT-C00241,Fatima Okafor,37,Female,Abuja,Premium,Savings,70,87.1,250k-499k,Mobile App,Active
+FT-C00242,David Mohammed,53,Male,Lagos,Everyday,Current,26,38.9,100k-249k,USSD,Active
+FT-C00243,Samuel Ibrahim,36,Female,Kano,Everyday,Savings,72,46.6,250k-499k,Mobile App,Active
+FT-C00244,Grace Eze,43,Prefer not to say,Abuja,Everyday,Premium,27,72.8,250k-499k,Mobile App,Active
+FT-C00245,Chiamaka Williams,20,Male,Kaduna,Everyday,Savings,89,77.4,100k-249k,USSD,Active
+FT-C00246,Chiamaka Adeyemi,36,Male,Kaduna,Student,Savings,18,66.7,500k-999k,Mobile App,Active
+FT-C00247,Blessing Ibrahim,37,Male,Ibadan,Everyday,Savings,54,67.3,100k-249k,Web,Active
+FT-C00248,Fatima Eze,49,Male,Enugu,Everyday,Savings,1,90.8,1m+,Mobile App,Active
+FT-C00249,Blessing Usman,24,Male,Kano,Everyday,Savings,61,79.5,250k-499k,Mobile App,Active
+FT-C00250,Zainab Williams,58,Male,Port Harcourt,Everyday,Current,3,77,250k-499k,Mobile App,Active
+FT-C00251,Ada Usman,50,Male,Lagos,Premium,Current,68,82,250k-499k,Mobile App,Active
+FT-C00252,Blessing Usman,57,Female,Abuja,Everyday,Savings,41,62.6,250k-499k,Mobile App,Active
+FT-C00253,Ada Adeyemi,56,Female,Port Harcourt,SME,Savings,37,100,250k-499k,Mobile App,Active
+FT-C00254,Mariam Okafor,35,Male,Enugu,Everyday,Savings,51,26.5,500k-999k,Mobile App,Active
+FT-C00255,Samuel Ibrahim,57,Female,Abuja,Everyday,Premium,15,94.2,250k-499k,Mobile App,Active
+FT-C00256,Ibrahim Adeyemi,18,Male,Enugu,Student,Premium,8,84.2,500k-999k,Mobile App,Active
+FT-C00257,Chiamaka Bello,28,Female,Ibadan,Everyday,Premium,38,72.5,500k-999k,Mobile App,Active
+FT-C00258,Tunde Okafor,45,Female,Lagos,Premium,Premium,83,69.4,1m+,Mobile App,Active
+FT-C00259,David Adebayo,42,Male,Kaduna,Student,Savings,56,65.2,250k-499k,Web,Active
+FT-C00260,Emeka Bello,40,Male,Port Harcourt,Everyday,Savings,47,87.9,250k-499k,Mobile App,Active
+FT-C00261,Daniel Okafor,48,Female,Abuja,Everyday,Savings,90,67.3,Below 100k,Mobile App,Dormant
+FT-C00262,Ada Mohammed,47,Male,Ibadan,Everyday,Premium,10,54.9,250k-499k,Web,Active
+FT-C00263,Yusuf Nwosu,59,Male,Lagos,Everyday,Savings,78,84.2,100k-249k,Mobile App,Active
+FT-C00264,Amina Ojo,52,Female,Ibadan,Everyday,Savings,49,96.5,100k-249k,Web,Active
+FT-C00265,Tunde Usman,24,Male,Port Harcourt,Everyday,Current,41,33.3,100k-249k,Web,Active
+FT-C00266,Samuel Usman,33,Female,Abuja,Everyday,Savings,83,100,500k-999k,Mobile App,Active
+FT-C00267,Yusuf Garba,43,Female,Kaduna,Premium,Savings,30,49.3,500k-999k,Mobile App,Active
+FT-C00268,Mariam Ibrahim,65,Prefer not to say,Port Harcourt,Student,Current,5,50.7,250k-499k,USSD,Active
+FT-C00269,Fatima Ojo,19,Female,Lagos,Premium,Savings,95,45.6,250k-499k,Mobile App,Active
+FT-C00270,Fatima Ibrahim,18,Male,Abuja,Everyday,Savings,71,68,250k-499k,Web,Active
+FT-C00271,Tunde Ojo,65,Male,Enugu,Everyday,Current,83,45,250k-499k,Mobile App,Active
+FT-C00272,David Williams,29,Female,Lagos,SME,Current,31,47.2,100k-249k,Mobile App,Active
+FT-C00273,Fatima Nwosu,22,Male,Lagos,Premium,Premium,52,55.6,100k-249k,Mobile App,Active
+FT-C00274,Fatima Usman,54,Male,Lagos,SME,Savings,88,70.5,100k-249k,Mobile App,Active
+FT-C00275,Tunde Mohammed,49,Female,Lagos,Everyday,Savings,23,72.2,250k-499k,Mobile App,Active
+FT-C00276,Chiamaka Okafor,26,Male,Benin City,Premium,Current,48,90.3,250k-499k,Web,Active
+FT-C00277,Samuel Garba,58,Male,Kano,Premium,Savings,40,89.9,100k-249k,USSD,Active
+FT-C00278,Daniel Adebayo,52,Male,Abuja,Everyday,Savings,6,86.4,1m+,Web,Active
+FT-C00279,Yusuf Okafor,36,Male,Ibadan,Premium,Current,38,63.3,Below 100k,Mobile App,Active
+FT-C00280,Zainab Williams,65,Female,Abuja,Premium,Savings,41,34.9,100k-249k,USSD,Active
+FT-C00281,Tunde Mohammed,33,Male,Kaduna,Everyday,Savings,27,34.5,100k-249k,Web,Active
+FT-C00282,Emeka Ibrahim,20,Male,Kaduna,Everyday,Savings,75,86.3,Below 100k,USSD,Active
+FT-C00283,Grace Ojo,37,Male,Abuja,Student,Savings,69,83.2,100k-249k,Mobile App,Dormant
+FT-C00284,Chiamaka Williams,41,Male,Benin City,SME,Savings,57,56.9,100k-249k,Web,Active
+FT-C00285,Daniel Garba,50,Male,Kano,Everyday,Savings,17,42.1,250k-499k,Mobile App,Active
+FT-C00286,Emeka Williams,41,Male,Lagos,Everyday,Current,71,49.2,100k-249k,Mobile App,Active
+FT-C00287,Ada Garba,28,Male,Lagos,Everyday,Premium,91,71.1,250k-499k,USSD,Active
+FT-C00288,Emeka Adeyemi,25,Male,Abuja,Student,Savings,47,71.2,250k-499k,Mobile App,Active
+FT-C00289,Chiamaka Garba,53,Male,Kano,Everyday,Savings,79,86.8,Below 100k,Mobile App,Active
+FT-C00290,Ibrahim Garba,55,Male,Kaduna,SME,Savings,13,59.9,500k-999k,USSD,Active
+FT-C00291,David Garba,57,Male,Kano,Everyday,Savings,11,63.6,Below 100k,Mobile App,Active
+FT-C00292,Ada Eze,37,Female,Benin City,Everyday,Current,90,88.3,500k-999k,USSD,Active
+FT-C00293,Grace Okafor,52,Female,Ibadan,Premium,Current,86,29.7,1m+,Web,Active
+FT-C00294,Ibrahim Ibrahim,65,Female,Benin City,Student,Current,92,73.7,100k-249k,Mobile App,Active
+FT-C00295,Zainab Adebayo,42,Male,Kano,Premium,Savings,24,62,1m+,Mobile App,Restricted
+FT-C00296,Emeka Nwosu,52,Male,Abuja,Everyday,Savings,93,80.8,500k-999k,Web,Active
+FT-C00297,Grace Adebayo,42,Male,Port Harcourt,SME,Savings,73,77.2,1m+,Mobile App,Active
+FT-C00298,David Eze,46,Female,Benin City,Everyday,Savings,4,55.5,250k-499k,USSD,Active
+FT-C00299,Amina Okafor,35,Male,Lagos,SME,Current,46,58.9,100k-249k,USSD,Active
+FT-C00300,Daniel Adeyemi,63,Female,Benin City,Everyday,Premium,18,26.6,500k-999k,Mobile App,Active
+FT-C00301,Tunde Williams,35,Female,Lagos,Student,Savings,43,81.5,100k-249k,Mobile App,Dormant
+FT-C00302,Fatima Ibrahim,19,Male,Port Harcourt,Premium,Current,80,72.3,100k-249k,USSD,Active
+FT-C00303,Yusuf Ibrahim,52,Male,Benin City,Everyday,Savings,33,93.2,100k-249k,Mobile App,Active
+FT-C00304,Blessing Ojo,33,Female,Lagos,SME,Savings,93,60.8,100k-249k,Mobile App,Active
+FT-C00305,Mariam Nwosu,58,Female,Lagos,Everyday,Savings,10,84.5,250k-499k,Web,Active
+FT-C00306,Chiamaka Ojo,53,Female,Abuja,Everyday,Savings,73,48.7,250k-499k,USSD,Active
+FT-C00307,Daniel Bello,50,Female,Enugu,Premium,Savings,59,19.3,1m+,Web,Active
+FT-C00308,Emeka Okafor,21,Male,Lagos,Everyday,Current,31,66.3,Below 100k,Mobile App,Active
+FT-C00309,Ibrahim Williams,50,Female,Enugu,Premium,Premium,28,57.8,1m+,Web,Active
+FT-C00310,Tunde Adeyemi,31,Male,Lagos,Everyday,Savings,60,49.1,1m+,Web,Active
+FT-C00311,Amina Mohammed,38,Male,Kaduna,Everyday,Savings,3,84.2,Below 100k,USSD,Active
+FT-C00312,Yusuf Eze,65,Female,Kaduna,Everyday,Premium,55,89.7,100k-249k,USSD,Restricted
+FT-C00313,Chiamaka Ojo,37,Female,Port Harcourt,Everyday,Current,14,69.9,500k-999k,Mobile App,Active
+FT-C00314,Samuel Ojo,25,Female,Port Harcourt,Everyday,Current,58,64.7,250k-499k,Web,Active
+FT-C00315,David Bello,24,Female,Abuja,Student,Savings,89,69.1,500k-999k,USSD,Dormant
+FT-C00316,Daniel Eze,20,Female,Ibadan,SME,Premium,15,56.2,250k-499k,Mobile App,Active
+FT-C00317,David Adebayo,34,Male,Lagos,Student,Savings,2,78.1,250k-499k,Mobile App,Active
+FT-C00318,Grace Bello,50,Female,Lagos,Everyday,Current,24,40.3,Below 100k,USSD,Active
+FT-C00319,Grace Eze,65,Male,Lagos,Everyday,Savings,78,48.7,250k-499k,Mobile App,Dormant
+FT-C00320,Amina Eze,29,Female,Abuja,Everyday,Current,64,53.8,Below 100k,Mobile App,Active
+FT-C00321,Blessing Williams,39,Male,Lagos,Everyday,Savings,71,77.7,250k-499k,Mobile App,Active
+FT-C00322,David Garba,39,Male,Ibadan,Premium,Savings,24,62.6,500k-999k,Mobile App,Active
+FT-C00323,Mariam Okafor,63,Male,Kaduna,Everyday,Savings,27,92.5,250k-499k,Mobile App,Active
+FT-C00324,Chiamaka Adebayo,47,Male,Abuja,Everyday,Savings,37,82.5,1m+,Mobile App,Active
+FT-C00325,Grace Eze,55,Male,Port Harcourt,SME,Current,94,53.6,100k-249k,USSD,Active
+FT-C00326,Yusuf Nwosu,55,Male,Abuja,Premium,Premium,91,79.4,500k-999k,Web,Active
+FT-C00327,Daniel Bello,62,Male,Benin City,Everyday,Premium,39,60.7,250k-499k,Web,Active
+FT-C00328,Ada Adeyemi,25,Male,Enugu,Everyday,Savings,63,76.5,1m+,Mobile App,Active
+FT-C00329,Amina Williams,44,Female,Enugu,Everyday,Current,79,83.3,250k-499k,Web,Active
+FT-C00330,Blessing Bello,44,Female,Kaduna,SME,Current,26,88.1,Below 100k,Web,Active
+FT-C00331,Fatima Garba,51,Male,Lagos,Everyday,Savings,65,71.6,1m+,Web,Active
+FT-C00332,Fatima Adebayo,38,Male,Benin City,Everyday,Savings,4,96.8,250k-499k,Mobile App,Active
+FT-C00333,Amina Eze,47,Male,Kano,Everyday,Current,29,75.9,Below 100k,Mobile App,Active
+FT-C00334,Zainab Usman,50,Male,Lagos,Premium,Premium,1,70.4,250k-499k,Web,Dormant
+FT-C00335,Ada Ojo,45,Prefer not to say,Kaduna,Everyday,Current,50,62.6,500k-999k,Web,Active
+FT-C00336,Fatima Okafor,64,Female,Lagos,Student,Savings,86,56.6,250k-499k,Web,Active
+FT-C00337,Emeka Bello,50,Female,Ibadan,Student,Savings,11,75.6,100k-249k,Mobile App,Active
+FT-C00338,Yusuf Ibrahim,22,Female,Lagos,Student,Savings,74,69.8,500k-999k,Mobile App,Active
+FT-C00339,Ibrahim Nwosu,65,Female,Abuja,Everyday,Current,59,72.7,500k-999k,Web,Dormant
+FT-C00340,Blessing Garba,36,Male,Kano,Student,Current,62,76.7,250k-499k,Mobile App,Active
+FT-C00341,Emeka Okafor,21,Female,Port Harcourt,Premium,Savings,81,72.6,Below 100k,Web,Active
+FT-C00342,Emeka Usman,52,Male,Abuja,Everyday,Premium,36,100,100k-249k,USSD,Active
+FT-C00343,David Eze,34,Female,Lagos,Premium,Savings,56,58.5,500k-999k,Web,Active
+FT-C00344,Ibrahim Ibrahim,61,Male,Benin City,Everyday,Premium,90,75.8,500k-999k,Mobile App,Active
+FT-C00345,David Adebayo,45,Male,Lagos,Everyday,Savings,21,63.9,100k-249k,Mobile App,Active
+FT-C00346,Zainab Nwosu,47,Female,Abuja,Student,Savings,13,23.7,100k-249k,Web,Active
+FT-C00347,Ada Williams,46,Male,Enugu,Everyday,Savings,9,64.5,Below 100k,USSD,Active
+FT-C00348,Ada Bello,63,Female,Benin City,Premium,Savings,11,51.1,250k-499k,Mobile App,Active
+FT-C00349,Ibrahim Usman,23,Female,Abuja,Everyday,Savings,75,66.8,Below 100k,Mobile App,Active
+FT-C00350,Blessing Adebayo,52,Female,Kano,SME,Savings,70,67.5,Below 100k,Mobile App,Active
+FT-C00351,Ada Garba,58,Female,Benin City,SME,Savings,1,74.9,Below 100k,Web,Active
+FT-C00352,Amina Bello,54,Female,Enugu,SME,Current,70,58.5,250k-499k,Web,Active
+FT-C00353,Blessing Garba,41,Male,Port Harcourt,Everyday,Savings,77,60.7,100k-249k,USSD,Active
+FT-C00354,Zainab Adeyemi,46,Male,Lagos,Everyday,Savings,86,80.6,100k-249k,Mobile App,Active
+FT-C00355,Daniel Adebayo,63,Male,Lagos,Premium,Savings,56,53.4,1m+,Web,Active
+FT-C00356,Grace Garba,48,Female,Lagos,Everyday,Current,31,34.9,100k-249k,Mobile App,Active
+FT-C00357,Ada Garba,52,Male,Port Harcourt,Everyday,Savings,86,70.8,100k-249k,Mobile App,Active
+FT-C00358,Yusuf Mohammed,50,Female,Lagos,Premium,Premium,37,87.3,1m+,Web,Active
+FT-C00359,Ibrahim Okafor,38,Female,Ibadan,Premium,Current,47,80.4,100k-249k,Mobile App,Active
+FT-C00360,Samuel Williams,49,Male,Abuja,SME,Savings,91,71.2,250k-499k,Mobile App,Active
+FT-C00361,Emeka Adeyemi,40,Female,Lagos,Everyday,Savings,78,90.5,Below 100k,Web,Active
+FT-C00362,Daniel Okafor,50,Male,Enugu,Everyday,Savings,47,87.5,500k-999k,Mobile App,Active
+FT-C00363,Ibrahim Mohammed,20,Male,Abuja,Everyday,Savings,69,62,100k-249k,Mobile App,Active
+FT-C00364,Blessing Eze,35,Female,Lagos,SME,Premium,58,72.5,500k-999k,Mobile App,Active
+FT-C00365,Ibrahim Ibrahim,42,Female,Benin City,Student,Premium,36,73.2,100k-249k,Mobile App,Active
+FT-C00366,Zainab Williams,59,Female,Lagos,Student,Savings,32,66.4,100k-249k,USSD,Dormant
+FT-C00367,Fatima Adeyemi,48,Male,Kano,SME,Savings,64,88.4,500k-999k,Mobile App,Active
+FT-C00368,Yusuf Williams,20,Female,Kano,Premium,Current,71,65.3,1m+,Web,Active
+FT-C00369,Daniel Ibrahim,57,Female,Abuja,Everyday,Current,42,59,Below 100k,Mobile App,Active
+FT-C00370,Mariam Okafor,63,Female,Benin City,Everyday,Savings,48,21.4,500k-999k,Mobile App,Active
+FT-C00371,Tunde Okafor,41,Male,Port Harcourt,Premium,Savings,74,53.6,100k-249k,Mobile App,Active
+FT-C00372,Ibrahim Usman,49,Female,Abuja,Everyday,Savings,81,44.3,250k-499k,USSD,Active
+FT-C00373,Yusuf Garba,64,Female,Lagos,Everyday,Current,30,67.3,100k-249k,Mobile App,Active
+FT-C00374,Emeka Mohammed,39,Male,Lagos,SME,Savings,21,45.4,250k-499k,Web,Active
+FT-C00375,Mariam Adebayo,40,Male,Kaduna,SME,Savings,60,79,100k-249k,Mobile App,Active
+FT-C00376,Tunde Williams,19,Female,Abuja,Student,Premium,13,88,100k-249k,USSD,Active
+FT-C00377,Emeka Williams,44,Female,Port Harcourt,Student,Current,1,67.4,Below 100k,Web,Active
+FT-C00378,Blessing Ibrahim,59,Female,Port Harcourt,Student,Premium,65,50.3,Below 100k,Web,Active
+FT-C00379,Tunde Nwosu,19,Male,Port Harcourt,Everyday,Savings,33,73.2,1m+,USSD,Dormant
+FT-C00380,Grace Garba,43,Female,Lagos,Everyday,Savings,38,100,1m+,Web,Active
+FT-C00381,Samuel Mohammed,34,Male,Abuja,Student,Premium,25,96.5,500k-999k,Web,Dormant
+FT-C00382,Yusuf Usman,57,Male,Kano,Student,Savings,26,42.7,100k-249k,Mobile App,Active
+FT-C00383,Zainab Adeyemi,50,Male,Lagos,Everyday,Savings,77,42,100k-249k,Mobile App,Active
+FT-C00384,Grace Bello,26,Female,Lagos,SME,Savings,59,37.4,500k-999k,Mobile App,Active
+FT-C00385,Blessing Adeyemi,60,Male,Lagos,Everyday,Savings,92,47.5,1m+,Mobile App,Active
+FT-C00386,Grace Ibrahim,65,Male,Abuja,Everyday,Savings,33,72.5,100k-249k,Mobile App,Active
+FT-C00387,Tunde Eze,56,Male,Enugu,Student,Premium,41,58,500k-999k,Mobile App,Restricted
+FT-C00388,Chiamaka Garba,46,Female,Lagos,Everyday,Premium,30,52.9,1m+,Mobile App,Active
+FT-C00389,Ibrahim Bello,59,Prefer not to say,Lagos,Everyday,Premium,57,86.7,500k-999k,Web,Active
+FT-C00390,Fatima Okafor,43,Female,Lagos,Everyday,Savings,49,77.5,100k-249k,Mobile App,Active
+FT-C00391,Mariam Mohammed,52,Female,Kano,Student,Savings,48,37.3,Below 100k,USSD,Active
+FT-C00392,Ibrahim Okafor,42,Female,Ibadan,Everyday,Savings,72,85.7,250k-499k,USSD,Active
+FT-C00393,Amina Eze,41,Male,Abuja,Premium,Premium,49,77.1,250k-499k,USSD,Active
+FT-C00394,Blessing Eze,30,Female,Kano,Premium,Savings,47,77.5,100k-249k,Mobile App,Active
+FT-C00395,Zainab Williams,24,Female,Ibadan,Everyday,Current,56,57.7,100k-249k,Mobile App,Dormant
+FT-C00396,Yusuf Garba,53,Female,Enugu,SME,Current,65,64.6,500k-999k,USSD,Active
+FT-C00397,Ibrahim Usman,62,Female,Benin City,Everyday,Savings,12,32.5,250k-499k,USSD,Active
+FT-C00398,Ibrahim Williams,37,Male,Lagos,SME,Savings,69,83.6,100k-249k,Web,Active
+FT-C00399,Tunde Eze,18,Male,Lagos,Premium,Premium,88,50,250k-499k,Mobile App,Active
+FT-C00400,Grace Adebayo,25,Female,Lagos,SME,Premium,6,52.3,250k-499k,Mobile App,Active
+FT-C00401,Mariam Eze,63,Female,Lagos,Everyday,Savings,89,52.1,500k-999k,Web,Active
+FT-C00402,Mariam Bello,33,Male,Kaduna,Premium,Savings,65,100,Below 100k,Mobile App,Active
+FT-C00403,Grace Garba,31,Female,Abuja,Everyday,Premium,25,56,500k-999k,Web,Active
+FT-C00404,Blessing Adeyemi,29,Female,Lagos,Everyday,Savings,1,85,250k-499k,Web,Active
+FT-C00405,Ada Garba,40,Prefer not to say,Kano,Premium,Savings,32,67.6,Below 100k,Web,Active
+FT-C00406,Emeka Adebayo,32,Male,Port Harcourt,Everyday,Savings,3,53.1,500k-999k,Mobile App,Active
+FT-C00407,Mariam Bello,45,Female,Lagos,Premium,Savings,49,49.8,100k-249k,Mobile App,Active
+FT-C00408,Ada Adebayo,51,Male,Abuja,Everyday,Savings,19,56.7,100k-249k,USSD,Active
+FT-C00409,David Eze,19,Female,Abuja,Everyday,Savings,60,66.7,100k-249k,Mobile App,Active
+FT-C00410,Tunde Mohammed,49,Male,Kano,Student,Savings,29,78.8,100k-249k,Web,Active
+FT-C00411,Fatima Bello,40,Female,Lagos,Everyday,Savings,50,59.5,100k-249k,Web,Active
+FT-C00412,Tunde Okafor,39,Female,Lagos,Premium,Premium,2,58.8,500k-999k,Web,Active
+FT-C00413,Samuel Nwosu,42,Female,Port Harcourt,Premium,Current,73,52.1,Below 100k,Web,Active
+FT-C00414,Tunde Ibrahim,39,Male,Lagos,SME,Current,56,46.5,1m+,Mobile App,Active
+FT-C00415,Amina Williams,39,Male,Ibadan,Everyday,Current,17,45,250k-499k,Mobile App,Active
+FT-C00416,Mariam Okafor,59,Female,Abuja,Student,Savings,60,85.8,100k-249k,Mobile App,Active
+FT-C00417,Yusuf Adebayo,23,Female,Abuja,SME,Savings,36,58.5,Below 100k,Mobile App,Active
+FT-C00418,Blessing Nwosu,32,Male,Kaduna,Student,Premium,61,60.1,250k-499k,Mobile App,Active
+FT-C00419,Ada Adeyemi,60,Female,Ibadan,Premium,Savings,17,56,250k-499k,Mobile App,Active
+FT-C00420,Zainab Garba,54,Female,Lagos,Premium,Savings,49,62.3,Below 100k,USSD,Active
+FT-C00421,Tunde Mohammed,50,Male,Port Harcourt,Student,Current,76,74.7,100k-249k,Mobile App,Active
+FT-C00422,David Williams,25,Female,Kano,Premium,Savings,60,59.2,500k-999k,Mobile App,Dormant
+FT-C00423,Grace Eze,61,Male,Kano,Everyday,Savings,20,71.3,Below 100k,Mobile App,Active
+FT-C00424,Grace Ojo,61,Prefer not to say,Lagos,Everyday,Premium,50,93.5,500k-999k,Web,Active
+FT-C00425,Ibrahim Okafor,22,Female,Kaduna,Student,Premium,3,53.2,250k-499k,Mobile App,Active
+FT-C00426,Mariam Garba,56,Female,Abuja,Everyday,Savings,43,60.1,100k-249k,Mobile App,Active
+FT-C00427,David Ojo,21,Female,Lagos,Student,Premium,57,79.5,100k-249k,Mobile App,Active
+FT-C00428,Tunde Adebayo,23,Male,Lagos,Everyday,Current,50,95,Below 100k,Web,Active
+FT-C00429,Fatima Adebayo,62,Male,Lagos,Premium,Current,68,45.6,500k-999k,USSD,Active
+FT-C00430,Amina Usman,49,Male,Benin City,Everyday,Savings,81,37.4,Below 100k,USSD,Active
+FT-C00431,Amina Bello,47,Female,Lagos,Everyday,Savings,50,68,100k-249k,Mobile App,Active
+FT-C00432,Emeka Garba,64,Male,Lagos,SME,Current,37,66.1,250k-499k,Web,Active
+FT-C00433,Samuel Okafor,52,Male,Benin City,SME,Premium,46,80.6,100k-249k,Mobile App,Active
+FT-C00434,Blessing Okafor,57,Male,Abuja,Premium,Current,42,77.9,250k-499k,Mobile App,Active
+FT-C00435,Grace Eze,33,Male,Lagos,Everyday,Savings,15,67.4,500k-999k,Mobile App,Active
+FT-C00436,Samuel Mohammed,30,Male,Lagos,Student,Savings,33,86.9,250k-499k,Mobile App,Active
+FT-C00437,Chiamaka Nwosu,59,Male,Lagos,Premium,Current,80,55.7,1m+,Web,Dormant
+FT-C00438,Ada Nwosu,47,Male,Lagos,Premium,Savings,11,71.8,500k-999k,Mobile App,Active
+FT-C00439,Grace Adeyemi,36,Female,Ibadan,Everyday,Savings,20,46.1,100k-249k,Mobile App,Active
+FT-C00440,Emeka Garba,34,Female,Lagos,Premium,Savings,24,67.2,100k-249k,Mobile App,Active
+FT-C00441,Grace Ibrahim,36,Male,Lagos,Student,Savings,64,41.7,100k-249k,Mobile App,Active
+FT-C00442,Ibrahim Ojo,45,Female,Kano,SME,Current,80,47.9,250k-499k,Web,Active
+FT-C00443,Fatima Bello,43,Male,Ibadan,Everyday,Current,94,98.8,100k-249k,Web,Active
+FT-C00444,Samuel Bello,54,Prefer not to say,Abuja,Student,Savings,65,35.2,1m+,Web,Active
+FT-C00445,Grace Usman,43,Male,Port Harcourt,Premium,Savings,88,64.1,250k-499k,Mobile App,Active
+FT-C00446,Amina Eze,40,Female,Lagos,Everyday,Current,88,82.9,100k-249k,Mobile App,Active
+FT-C00447,Amina Okafor,26,Female,Abuja,Everyday,Savings,73,100,250k-499k,Mobile App,Active
+FT-C00448,Chiamaka Bello,29,Female,Port Harcourt,Everyday,Savings,86,71.2,100k-249k,USSD,Active
+FT-C00449,Ibrahim Bello,18,Male,Abuja,Everyday,Premium,76,72.2,500k-999k,USSD,Active
+FT-C00450,Grace Garba,18,Male,Enugu,Everyday,Savings,17,68.7,250k-499k,Web,Active
+FT-C00451,Mariam Ibrahim,64,Male,Lagos,Student,Premium,89,87,Below 100k,Mobile App,Active
+FT-C00452,Emeka Okafor,51,Female,Kano,Student,Savings,92,75.8,Below 100k,Mobile App,Active
+FT-C00453,Emeka Ojo,49,Male,Lagos,Premium,Savings,61,57.6,500k-999k,Mobile App,Dormant
+FT-C00454,Amina Ojo,65,Male,Benin City,SME,Savings,15,88.1,250k-499k,USSD,Active
+FT-C00455,Amina Williams,42,Female,Ibadan,Everyday,Premium,94,59.7,1m+,Web,Active
+FT-C00456,Amina Usman,57,Male,Benin City,Everyday,Savings,51,39.2,Below 100k,USSD,Active
+FT-C00457,Blessing Adebayo,62,Female,Lagos,Premium,Savings,27,39.3,100k-249k,Mobile App,Active
+FT-C00458,Yusuf Okafor,18,Female,Port Harcourt,Everyday,Premium,86,64.4,100k-249k,Mobile App,Active
+FT-C00459,Daniel Adeyemi,33,Male,Port Harcourt,Everyday,Savings,74,69.9,250k-499k,Mobile App,Active
+FT-C00460,Daniel Mohammed,56,Female,Kano,Everyday,Savings,61,85.2,100k-249k,Mobile App,Active
+FT-C00461,Ibrahim Adebayo,22,Male,Port Harcourt,Everyday,Savings,58,79.5,Below 100k,Mobile App,Active
+FT-C00462,Amina Nwosu,39,Male,Port Harcourt,Student,Current,31,69.4,250k-499k,Mobile App,Active
+FT-C00463,Blessing Ibrahim,46,Male,Abuja,Everyday,Savings,91,86.2,250k-499k,Web,Active
+FT-C00464,Zainab Ojo,20,Female,Lagos,Premium,Savings,12,68.2,100k-249k,Web,Active
+FT-C00465,Tunde Usman,29,Male,Abuja,Everyday,Savings,46,44.8,250k-499k,Mobile App,Active
+FT-C00466,Tunde Ojo,43,Male,Lagos,Student,Savings,31,40.8,500k-999k,Mobile App,Active
+FT-C00467,Chiamaka Ojo,33,Male,Kaduna,Everyday,Premium,32,91,100k-249k,Mobile App,Active
+FT-C00468,Ibrahim Nwosu,54,Female,Kano,Student,Premium,32,27.6,100k-249k,Web,Active
+FT-C00469,Fatima Okafor,39,Female,Kaduna,Everyday,Current,53,64.4,100k-249k,Mobile App,Active
+FT-C00470,Samuel Mohammed,46,Male,Lagos,Everyday,Current,61,100,500k-999k,Mobile App,Active
+FT-C00471,Emeka Okafor,31,Female,Enugu,Premium,Current,46,76.3,500k-999k,USSD,Active
+FT-C00472,Emeka Williams,45,Male,Benin City,Everyday,Savings,85,64.2,100k-249k,Mobile App,Active
+FT-C00473,Amina Usman,22,Male,Ibadan,Everyday,Current,74,37.7,100k-249k,Mobile App,Active
+FT-C00474,Samuel Bello,64,Male,Ibadan,Everyday,Savings,80,97.1,500k-999k,Web,Active
+FT-C00475,Daniel Williams,47,Male,Lagos,SME,Savings,7,89.8,1m+,Web,Active
+FT-C00476,Samuel Bello,63,Male,Benin City,Everyday,Current,4,80.3,250k-499k,Web,Active
+FT-C00477,Amina Nwosu,22,Male,Port Harcourt,Student,Savings,91,68,1m+,Mobile App,Active
+FT-C00478,Yusuf Bello,29,Male,Lagos,Everyday,Premium,52,78.3,250k-499k,Mobile App,Active
+FT-C00479,Grace Bello,33,Male,Lagos,Everyday,Savings,89,65.3,500k-999k,Web,Active
+FT-C00480,Tunde Usman,43,Female,Kaduna,Everyday,Current,31,50.5,100k-249k,Mobile App,Active
+FT-C00481,Fatima Adeyemi,43,Female,Benin City,SME,Savings,75,85.2,100k-249k,Web,Active
+FT-C00482,Amina Williams,65,Male,Kaduna,Everyday,Current,84,67.1,Below 100k,USSD,Active
+FT-C00483,Ibrahim Ojo,38,Female,Ibadan,Everyday,Current,36,77.4,500k-999k,USSD,Active
+FT-C00484,Fatima Mohammed,56,Female,Lagos,Everyday,Savings,54,65.8,1m+,Mobile App,Active
+FT-C00485,Fatima Ibrahim,53,Female,Lagos,Everyday,Savings,54,76.3,250k-499k,Mobile App,Active
+FT-C00486,Chiamaka Garba,50,Male,Lagos,Everyday,Savings,17,67.7,100k-249k,Mobile App,Active
+FT-C00487,Tunde Bello,47,Male,Lagos,Premium,Savings,75,66.3,Below 100k,Web,Active
+FT-C00488,Blessing Bello,54,Male,Abuja,Everyday,Current,30,68.5,100k-249k,Mobile App,Active
+FT-C00489,Ibrahim Adebayo,40,Male,Lagos,Everyday,Premium,22,100,100k-249k,Mobile App,Active
+FT-C00490,Daniel Ibrahim,27,Male,Abuja,Student,Savings,43,82.4,250k-499k,Mobile App,Active
+FT-C00491,Samuel Bello,22,Female,Kaduna,Everyday,Current,27,100,1m+,Mobile App,Active
+FT-C00492,Fatima Adeyemi,53,Male,Abuja,Everyday,Premium,37,67.9,Below 100k,Mobile App,Active
+FT-C00493,Amina Nwosu,51,Female,Enugu,Everyday,Savings,46,62.4,Below 100k,Mobile App,Active
+FT-C00494,Amina Mohammed,48,Male,Ibadan,Premium,Current,35,48.7,250k-499k,Web,Active
+FT-C00495,Chiamaka Williams,27,Male,Lagos,Everyday,Current,4,96.9,100k-249k,Mobile App,Active
+FT-C00496,Emeka Eze,36,Female,Abuja,Premium,Savings,80,51.7,500k-999k,Mobile App,Active
+FT-C00497,Tunde Garba,49,Female,Lagos,Everyday,Savings,80,100,100k-249k,Web,Active
+FT-C00498,Daniel Adebayo,18,Female,Lagos,Premium,Savings,85,49.7,100k-249k,Web,Active
+FT-C00499,Zainab Okafor,22,Female,Ibadan,Everyday,Premium,26,84,100k-249k,Mobile App,Active
+FT-C00500,Zainab Usman,62,Female,Lagos,Premium,Premium,19,39.4,Below 100k,Mobile App,Active
+FT-C00501,Amina Okafor,21,Male,Lagos,Student,Current,81,60,250k-499k,Web,Active
+FT-C00502,Amina Williams,33,Male,Abuja,Premium,Savings,45,68.4,Below 100k,Mobile App,Active
+FT-C00503,Ibrahim Garba,41,Male,Kaduna,Everyday,Savings,26,57.2,100k-249k,Mobile App,Active
+FT-C00504,Fatima Eze,33,Male,Kano,Everyday,Savings,22,65,250k-499k,Mobile App,Active
+FT-C00505,Ada Williams,19,Male,Kano,Everyday,Savings,58,65,Below 100k,Mobile App,Active
+FT-C00506,Zainab Williams,45,Male,Lagos,Everyday,Current,63,82.5,Below 100k,Mobile App,Active
+FT-C00507,Ibrahim Adeyemi,49,Female,Kano,Everyday,Premium,28,30.4,250k-499k,USSD,Active
+FT-C00508,Emeka Adeyemi,44,Male,Kano,Student,Premium,65,57.9,250k-499k,Web,Active
+FT-C00509,David Eze,37,Female,Ibadan,Everyday,Current,44,90.6,1m+,Mobile App,Active
+FT-C00510,David Usman,41,Prefer not to say,Kaduna,Everyday,Savings,43,78.1,Below 100k,Mobile App,Active
+FT-C00511,Blessing Adebayo,29,Male,Lagos,Premium,Savings,37,90.9,Below 100k,Mobile App,Active
+FT-C00512,Emeka Ibrahim,52,Male,Kaduna,Premium,Savings,66,81.7,Below 100k,Mobile App,Active
+FT-C00513,Blessing Ibrahim,50,Female,Enugu,Everyday,Current,17,48.5,100k-249k,Mobile App,Active
+FT-C00514,Blessing Adeyemi,50,Male,Lagos,Student,Current,40,79.9,250k-499k,Web,Active
+FT-C00515,Ibrahim Ibrahim,60,Male,Abuja,Everyday,Savings,38,69.8,500k-999k,USSD,Restricted
+FT-C00516,Grace Bello,54,Female,Kaduna,Student,Savings,85,100,250k-499k,Mobile App,Active
+FT-C00517,Daniel Adebayo,29,Female,Lagos,Student,Savings,61,82.4,100k-249k,Web,Active
+FT-C00518,Daniel Adebayo,20,Male,Port Harcourt,Student,Savings,9,77.4,250k-499k,Mobile App,Active
+FT-C00519,Fatima Bello,18,Female,Kaduna,Premium,Savings,77,80,1m+,Mobile App,Active
+FT-C00520,Grace Mohammed,50,Male,Port Harcourt,Everyday,Savings,75,76.4,100k-249k,Mobile App,Active
+FT-C00521,Zainab Eze,57,Female,Lagos,Everyday,Savings,61,76,250k-499k,Web,Active
+FT-C00522,Yusuf Adebayo,27,Female,Port Harcourt,Premium,Premium,80,63.2,1m+,Web,Active
+FT-C00523,Mariam Ojo,60,Male,Lagos,Everyday,Savings,16,77.6,500k-999k,Web,Active
+FT-C00524,Ada Eze,61,Female,Port Harcourt,SME,Savings,2,85.1,500k-999k,Mobile App,Active
+FT-C00525,Fatima Mohammed,46,Male,Lagos,Everyday,Savings,72,87.1,100k-249k,Mobile App,Restricted
+FT-C00526,Samuel Williams,30,Female,Ibadan,Everyday,Savings,43,84.9,100k-249k,Mobile App,Active
+FT-C00527,Yusuf Usman,29,Female,Port Harcourt,Everyday,Savings,42,95.1,Below 100k,Mobile App,Active
+FT-C00528,Chiamaka Nwosu,48,Male,Kano,Everyday,Savings,77,88.2,250k-499k,Mobile App,Active
+FT-C00529,Fatima Nwosu,63,Male,Ibadan,Premium,Savings,57,79.3,Below 100k,USSD,Active
+FT-C00530,Chiamaka Adeyemi,19,Male,Port Harcourt,Student,Savings,81,47.4,500k-999k,Web,Active
+FT-C00531,Ada Williams,52,Male,Ibadan,Student,Current,88,47.4,500k-999k,Mobile App,Active
+FT-C00532,Ibrahim Okafor,40,Male,Lagos,Student,Savings,67,63.5,250k-499k,Mobile App,Active
+FT-C00533,Grace Ojo,34,Female,Port Harcourt,SME,Current,30,68.8,Below 100k,Mobile App,Dormant
+FT-C00534,Grace Mohammed,43,Female,Lagos,Student,Savings,13,93.2,Below 100k,Web,Active
+FT-C00535,Daniel Okafor,25,Male,Enugu,Everyday,Savings,19,18,500k-999k,Web,Active
+FT-C00536,Chiamaka Garba,46,Male,Lagos,Student,Savings,7,49.4,250k-499k,Web,Active
+FT-C00537,Blessing Adeyemi,43,Male,Abuja,Everyday,Savings,9,64.5,250k-499k,Mobile App,Active
+FT-C00538,Grace Garba,27,Female,Ibadan,Everyday,Premium,83,50.1,100k-249k,Mobile App,Active
+FT-C00539,Grace Eze,43,Female,Abuja,Premium,Current,54,53.6,250k-499k,USSD,Active
+FT-C00540,Zainab Nwosu,51,Male,Lagos,Everyday,Premium,86,59,500k-999k,USSD,Active
+FT-C00541,Tunde Usman,58,Male,Port Harcourt,Everyday,Premium,82,51,250k-499k,Mobile App,Active
+FT-C00542,Blessing Eze,24,Male,Ibadan,Everyday,Current,61,54.1,250k-499k,Mobile App,Dormant
+FT-C00543,Yusuf Nwosu,21,Male,Kano,Everyday,Savings,87,92.5,500k-999k,Mobile App,Active
+FT-C00544,Grace Ojo,62,Male,Abuja,SME,Savings,2,79.1,100k-249k,USSD,Active
+FT-C00545,Ibrahim Nwosu,28,Female,Port Harcourt,Everyday,Premium,50,81.8,Below 100k,Web,Active
+FT-C00546,Blessing Okafor,46,Female,Abuja,Everyday,Current,75,67.4,250k-499k,Web,Active
+FT-C00547,Ibrahim Adeyemi,53,Female,Ibadan,Everyday,Savings,31,86.2,Below 100k,Mobile App,Active
+FT-C00548,Zainab Bello,42,Female,Port Harcourt,Everyday,Current,33,83.3,500k-999k,Mobile App,Active
+FT-C00549,Fatima Williams,38,Male,Port Harcourt,SME,Savings,78,78.8,250k-499k,Mobile App,Active
+FT-C00550,Amina Adebayo,53,Female,Lagos,Everyday,Savings,80,56.2,500k-999k,USSD,Dormant
+FT-C00551,Fatima Okafor,27,Male,Lagos,Premium,Savings,11,60,250k-499k,Mobile App,Active
+FT-C00552,Emeka Adeyemi,54,Female,Lagos,Student,Current,33,87,Below 100k,Web,Active
+FT-C00553,Emeka Bello,26,Female,Lagos,SME,Premium,7,58.7,100k-249k,Mobile App,Active
+FT-C00554,Zainab Williams,41,Female,Abuja,Premium,Savings,31,44.8,500k-999k,USSD,Active
+FT-C00555,Yusuf Mohammed,52,Female,Ibadan,Student,Savings,48,58.4,Below 100k,Web,Active
+FT-C00556,Tunde Ojo,52,Male,Lagos,Everyday,Savings,47,96.1,250k-499k,Mobile App,Active
+FT-C00557,Zainab Ojo,65,Female,Kaduna,Everyday,Current,78,58.4,500k-999k,USSD,Active
+FT-C00558,Daniel Adeyemi,53,Male,Lagos,Everyday,Savings,92,73.9,100k-249k,Mobile App,Active
+FT-C00559,Yusuf Garba,35,Female,Kano,SME,Savings,53,56.9,100k-249k,Mobile App,Active
+FT-C00560,Mariam Okafor,56,Female,Ibadan,Everyday,Savings,80,81.7,250k-499k,Mobile App,Dormant
+FT-C00561,Blessing Usman,49,Female,Abuja,Everyday,Savings,19,77.7,500k-999k,USSD,Dormant
+FT-C00562,Samuel Adebayo,41,Male,Lagos,Everyday,Savings,81,41.2,100k-249k,USSD,Dormant
+FT-C00563,Emeka Okafor,40,Male,Ibadan,Everyday,Current,90,72.8,1m+,Mobile App,Active
+FT-C00564,Tunde Garba,49,Female,Abuja,Everyday,Savings,6,37.7,250k-499k,Web,Dormant
+FT-C00565,Grace Adeyemi,54,Female,Kaduna,SME,Current,49,58,1m+,Web,Restricted
+FT-C00566,Zainab Eze,29,Male,Port Harcourt,Everyday,Savings,73,67.8,Below 100k,Web,Dormant
+FT-C00567,Grace Usman,30,Female,Kaduna,Premium,Savings,50,100,Below 100k,Mobile App,Active
+FT-C00568,Mariam Nwosu,40,Female,Lagos,Student,Savings,81,73.7,500k-999k,Mobile App,Active
+FT-C00569,Amina Nwosu,42,Male,Kano,Everyday,Current,95,54.2,500k-999k,Web,Active
+FT-C00570,Chiamaka Garba,52,Male,Ibadan,Everyday,Premium,12,62.3,100k-249k,Mobile App,Active
+FT-C00571,David Okafor,58,Female,Kano,Everyday,Premium,23,84.6,250k-499k,Mobile App,Active
+FT-C00572,Amina Okafor,47,Male,Lagos,Everyday,Savings,54,54.4,500k-999k,Web,Active
+FT-C00573,Fatima Eze,34,Male,Ibadan,Premium,Savings,69,87.7,Below 100k,Mobile App,Restricted
+FT-C00574,Grace Adebayo,37,Female,Port Harcourt,Everyday,Current,59,58.6,250k-499k,USSD,Active
+FT-C00575,Blessing Adeyemi,65,Male,Kano,Everyday,Current,36,51.5,500k-999k,Mobile App,Active
+FT-C00576,Yusuf Adeyemi,42,Male,Lagos,Premium,Savings,3,59.2,100k-249k,USSD,Dormant
+FT-C00577,Chiamaka Bello,39,Female,Enugu,SME,Current,58,38.9,100k-249k,Mobile App,Restricted
+FT-C00578,Yusuf Bello,30,Female,Lagos,Student,Savings,88,28.9,500k-999k,Mobile App,Active
+FT-C00579,Ibrahim Bello,36,Female,Benin City,Student,Savings,55,66.5,100k-249k,Mobile App,Active
+FT-C00580,Daniel Usman,53,Male,Enugu,Student,Savings,57,66.8,Below 100k,Web,Active
+FT-C00581,Grace Bello,29,Female,Benin City,Everyday,Savings,17,72.6,1m+,Web,Active
+FT-C00582,David Ibrahim,58,Male,Port Harcourt,Student,Savings,39,66.4,250k-499k,Mobile App,Active
+FT-C00583,Ibrahim Adebayo,36,Male,Abuja,Everyday,Savings,90,100,500k-999k,Mobile App,Active
+FT-C00584,Fatima Williams,29,Female,Kaduna,Premium,Savings,68,71,500k-999k,Web,Active
+FT-C00585,Zainab Williams,26,Male,Lagos,Premium,Savings,55,43.2,Below 100k,Mobile App,Active
+FT-C00586,Zainab Ojo,24,Female,Port Harcourt,Everyday,Savings,45,47.8,Below 100k,Web,Dormant
+FT-C00587,Tunde Williams,45,Male,Ibadan,Student,Current,76,68,100k-249k,Mobile App,Active
+FT-C00588,Ibrahim Adebayo,31,Male,Kano,SME,Savings,1,60.2,100k-249k,Mobile App,Active
+FT-C00589,David Garba,48,Female,Lagos,Everyday,Savings,21,45.9,250k-499k,Web,Active
+FT-C00590,Chiamaka Williams,36,Female,Ibadan,Student,Savings,83,66.9,250k-499k,USSD,Active
+FT-C00591,Ada Nwosu,64,Female,Benin City,Everyday,Premium,21,67.2,250k-499k,Web,Dormant
+FT-C00592,David Okafor,33,Female,Lagos,Premium,Savings,52,96.7,100k-249k,Mobile App,Active
+FT-C00593,Daniel Williams,22,Female,Enugu,Premium,Savings,82,51.5,100k-249k,Mobile App,Active
+FT-C00594,Mariam Adeyemi,52,Female,Lagos,Premium,Savings,43,60.5,250k-499k,Web,Active
+FT-C00595,Fatima Okafor,29,Prefer not to say,Abuja,SME,Current,52,96.7,250k-499k,Mobile App,Active
+FT-C00596,Mariam Bello,42,Female,Lagos,SME,Savings,67,73.9,Below 100k,USSD,Active
+FT-C00597,Mariam Eze,38,Female,Lagos,Student,Savings,44,51.4,250k-499k,Web,Active
+FT-C00598,Blessing Garba,53,Male,Enugu,Everyday,Savings,32,55.1,Below 100k,Mobile App,Active
+FT-C00599,Blessing Ojo,40,Female,Abuja,SME,Savings,10,46.1,100k-249k,Mobile App,Active
+FT-C00600,Grace Usman,33,Male,Abuja,Everyday,Current,64,69.4,250k-499k,Mobile App,Active
+FT-C00601,David Bello,56,Male,Lagos,SME,Premium,79,86.6,Below 100k,Mobile App,Active
+FT-C00602,Blessing Adebayo,62,Male,Port Harcourt,Everyday,Current,69,97.4,250k-499k,Mobile App,Active
+FT-C00603,Yusuf Ibrahim,59,Female,Port Harcourt,Everyday,Current,68,41.2,100k-249k,Mobile App,Active
+FT-C00604,Fatima Mohammed,56,Female,Abuja,Student,Savings,28,83.6,Below 100k,Mobile App,Active
+FT-C00605,Emeka Mohammed,31,Female,Lagos,Everyday,Savings,53,71,100k-249k,Mobile App,Active
+FT-C00606,Ibrahim Adeyemi,48,Male,Enugu,Everyday,Current,51,63.3,1m+,Mobile App,Active
+FT-C00607,Fatima Ojo,22,Female,Abuja,Everyday,Savings,53,60.5,250k-499k,Mobile App,Active
+FT-C00608,Mariam Ojo,52,Female,Port Harcourt,Everyday,Premium,4,33.4,1m+,Mobile App,Active
+FT-C00609,Ibrahim Usman,40,Prefer not to say,Lagos,Everyday,Savings,79,79.5,250k-499k,Web,Dormant
+FT-C00610,David Williams,46,Female,Kano,Everyday,Savings,17,44.3,250k-499k,Mobile App,Active
+FT-C00611,Tunde Bello,60,Female,Abuja,Everyday,Current,67,54.5,100k-249k,Mobile App,Active
+FT-C00612,Chiamaka Usman,28,Female,Port Harcourt,Everyday,Current,74,75.5,100k-249k,Web,Dormant
+FT-C00613,David Garba,35,Prefer not to say,Lagos,Student,Current,47,35.3,100k-249k,USSD,Active
+FT-C00614,Yusuf Ojo,64,Female,Kaduna,Everyday,Savings,56,44.2,100k-249k,Mobile App,Active
+FT-C00615,Ibrahim Ojo,29,Male,Lagos,SME,Current,23,89.9,100k-249k,Mobile App,Active
+FT-C00616,Amina Nwosu,26,Male,Kano,SME,Savings,18,70.2,100k-249k,Mobile App,Active
+FT-C00617,Tunde Adebayo,27,Female,Abuja,Everyday,Savings,1,56.1,100k-249k,Mobile App,Active
+FT-C00618,Zainab Ibrahim,61,Male,Lagos,Student,Premium,35,70.3,100k-249k,USSD,Active
+FT-C00619,Zainab Nwosu,34,Female,Benin City,Student,Current,64,80.1,100k-249k,Web,Active
+FT-C00620,Ibrahim Garba,55,Female,Lagos,SME,Savings,58,88.2,250k-499k,Web,Active
+FT-C00621,Blessing Usman,24,Male,Enugu,Premium,Current,95,48,500k-999k,Mobile App,Restricted
+FT-C00622,Mariam Usman,63,Male,Enugu,Everyday,Savings,59,49.6,100k-249k,Web,Active
+FT-C00623,Fatima Nwosu,30,Male,Benin City,Premium,Savings,1,79,100k-249k,Mobile App,Active
+FT-C00624,Emeka Garba,57,Male,Lagos,Premium,Savings,3,79.5,100k-249k,Mobile App,Active
+FT-C00625,Ada Ibrahim,59,Female,Kano,Premium,Premium,67,43.8,500k-999k,Mobile App,Active
+FT-C00626,Emeka Mohammed,26,Female,Abuja,Everyday,Savings,37,50.2,Below 100k,Mobile App,Active
+FT-C00627,Yusuf Bello,44,Female,Enugu,SME,Current,83,64.5,250k-499k,Mobile App,Dormant
+FT-C00628,Fatima Bello,19,Female,Ibadan,SME,Savings,29,68.4,250k-499k,Web,Active
+FT-C00629,Samuel Williams,22,Female,Benin City,Everyday,Current,89,68.9,Below 100k,Mobile App,Active
+FT-C00630,Tunde Ibrahim,46,Female,Port Harcourt,Everyday,Savings,33,43.5,100k-249k,Mobile App,Active
+FT-C00631,Chiamaka Adebayo,54,Female,Port Harcourt,Everyday,Current,61,68.8,100k-249k,Mobile App,Active
+FT-C00632,Ibrahim Adebayo,55,Female,Lagos,Student,Savings,93,55.1,500k-999k,Mobile App,Active
+FT-C00633,Zainab Bello,36,Male,Kano,Student,Current,90,47,250k-499k,Web,Active
+FT-C00634,Zainab Usman,25,Male,Abuja,Premium,Premium,4,67.8,250k-499k,Web,Active
+FT-C00635,Grace Eze,65,Female,Port Harcourt,Everyday,Current,14,66,250k-499k,Web,Dormant
+FT-C00636,Tunde Bello,62,Male,Kano,Premium,Savings,91,82.4,250k-499k,Mobile App,Active
+FT-C00637,Daniel Mohammed,18,Male,Port Harcourt,Everyday,Premium,33,52.5,250k-499k,Web,Active
+FT-C00638,Samuel Okafor,39,Female,Lagos,Premium,Savings,22,72.2,Below 100k,USSD,Active
+FT-C00639,Mariam Williams,34,Male,Port Harcourt,Student,Current,48,39.8,100k-249k,Mobile App,Active
+FT-C00640,Mariam Eze,24,Male,Abuja,SME,Premium,3,63.1,100k-249k,Mobile App,Active
+FT-C00641,Ibrahim Usman,42,Male,Abuja,SME,Savings,87,76.3,250k-499k,USSD,Active
+FT-C00642,Zainab Okafor,62,Female,Lagos,SME,Savings,85,77.9,Below 100k,Mobile App,Active
+FT-C00643,Samuel Ibrahim,21,Male,Lagos,Everyday,Savings,23,78,250k-499k,Mobile App,Active
+FT-C00644,Chiamaka Mohammed,53,Female,Lagos,Premium,Savings,68,82.5,100k-249k,Mobile App,Active
+FT-C00645,Tunde Williams,23,Male,Kano,Student,Current,21,60,1m+,Mobile App,Active
+FT-C00646,Yusuf Okafor,48,Male,Lagos,SME,Savings,43,76.9,100k-249k,Mobile App,Active
+FT-C00647,Yusuf Eze,36,Male,Abuja,Everyday,Savings,95,100,100k-249k,Mobile App,Active
+FT-C00648,Blessing Adeyemi,61,Male,Enugu,Everyday,Savings,85,59.6,1m+,Web,Active
+FT-C00649,Daniel Ojo,56,Male,Lagos,Everyday,Savings,26,92.8,100k-249k,Mobile App,Active
+FT-C00650,Mariam Ojo,44,Female,Port Harcourt,Premium,Savings,41,83.8,1m+,Web,Active
+FT-C00651,Daniel Usman,27,Female,Kano,Everyday,Premium,38,63.2,Below 100k,Mobile App,Active
+FT-C00652,Zainab Bello,43,Male,Kaduna,Everyday,Savings,88,64.7,100k-249k,USSD,Active
+FT-C00653,Ibrahim Eze,36,Female,Kano,Everyday,Premium,11,70.1,250k-499k,USSD,Active
+FT-C00654,Blessing Ibrahim,56,Female,Kano,Everyday,Savings,29,82.8,500k-999k,Web,Active
+FT-C00655,Ibrahim Eze,20,Female,Benin City,SME,Savings,60,75.2,100k-249k,USSD,Active
+FT-C00656,Zainab Usman,62,Female,Abuja,Everyday,Current,67,59.5,1m+,Web,Restricted
+FT-C00657,Ada Usman,30,Male,Benin City,Student,Savings,65,30.5,250k-499k,USSD,Restricted
+FT-C00658,Blessing Mohammed,45,Male,Lagos,Premium,Savings,61,80.1,500k-999k,Mobile App,Active
+FT-C00659,Samuel Garba,37,Male,Enugu,SME,Savings,19,33.2,100k-249k,Mobile App,Active
+FT-C00660,Blessing Bello,45,Male,Abuja,Everyday,Savings,46,43.4,100k-249k,Web,Restricted
+FT-C00661,Grace Nwosu,25,Female,Port Harcourt,SME,Savings,49,60.8,1m+,Mobile App,Active
+FT-C00662,Ibrahim Bello,58,Female,Lagos,Premium,Savings,22,46.1,1m+,Web,Active
+FT-C00663,Grace Ojo,56,Male,Kano,SME,Savings,78,73.7,250k-499k,USSD,Active
+FT-C00664,Grace Adeyemi,18,Female,Lagos,SME,Savings,57,62.7,Below 100k,Mobile App,Active
+FT-C00665,David Adebayo,20,Male,Enugu,Everyday,Savings,14,82.1,Below 100k,Web,Active
+FT-C00666,Grace Okafor,30,Male,Benin City,Everyday,Savings,44,39.1,250k-499k,Mobile App,Active
+FT-C00667,Ada Adeyemi,45,Female,Lagos,Everyday,Savings,16,56.1,Below 100k,Mobile App,Active
+FT-C00668,Mariam Ibrahim,42,Male,Benin City,Premium,Savings,77,68.1,100k-249k,Mobile App,Active
+FT-C00669,Fatima Usman,50,Male,Kano,Everyday,Premium,12,68.8,100k-249k,Mobile App,Active
+FT-C00670,Zainab Eze,55,Male,Ibadan,Everyday,Savings,55,80.5,250k-499k,Mobile App,Active
+FT-C00671,Zainab Adeyemi,23,Female,Abuja,Premium,Current,51,51.5,Below 100k,Mobile App,Active
+FT-C00672,Mariam Ojo,61,Female,Lagos,Everyday,Savings,39,59.6,250k-499k,Mobile App,Active
+FT-C00673,Samuel Ojo,62,Male,Lagos,Everyday,Premium,33,77.1,250k-499k,Web,Active
+FT-C00674,Amina Nwosu,49,Female,Lagos,Everyday,Savings,33,28.4,250k-499k,Web,Active
+FT-C00675,Blessing Okafor,62,Female,Enugu,Everyday,Premium,29,74.9,100k-249k,Mobile App,Active
+FT-C00676,Tunde Williams,64,Male,Lagos,Everyday,Current,69,81.8,100k-249k,Mobile App,Dormant
+FT-C00677,David Usman,38,Female,Benin City,Premium,Savings,70,44,250k-499k,USSD,Active
+FT-C00678,Emeka Okafor,33,Male,Abuja,Everyday,Premium,31,62.3,500k-999k,Web,Active
+FT-C00679,Tunde Mohammed,38,Male,Port Harcourt,SME,Savings,80,94.9,250k-499k,Mobile App,Active
+FT-C00680,Grace Ibrahim,28,Male,Benin City,Premium,Savings,31,79.9,1m+,Mobile App,Active
+FT-C00681,Amina Bello,54,Female,Enugu,Premium,Current,89,76,250k-499k,Web,Active
+FT-C00682,Zainab Ibrahim,53,Male,Abuja,Everyday,Premium,46,85.8,500k-999k,Mobile App,Active
+FT-C00683,Ibrahim Ibrahim,52,Female,Abuja,Student,Savings,77,100,Below 100k,Mobile App,Active
+FT-C00684,Blessing Eze,36,Female,Abuja,SME,Savings,52,68.3,100k-249k,Mobile App,Active
+FT-C00685,Yusuf Ojo,37,Male,Lagos,SME,Current,10,60.7,250k-499k,Mobile App,Active
+FT-C00686,David Ibrahim,35,Female,Lagos,Student,Current,88,85.8,100k-249k,Web,Active
+FT-C00687,David Usman,64,Female,Abuja,Everyday,Premium,74,64.6,250k-499k,Mobile App,Active
+FT-C00688,Amina Eze,58,Male,Abuja,Everyday,Current,41,51.3,100k-249k,Mobile App,Active
+FT-C00689,David Ibrahim,31,Female,Kano,Everyday,Savings,95,58.3,250k-499k,Mobile App,Active
+FT-C00690,Tunde Ibrahim,32,Female,Abuja,SME,Premium,77,73.6,250k-499k,USSD,Active
+FT-C00691,Yusuf Adeyemi,48,Male,Abuja,Student,Savings,3,59.9,100k-249k,Web,Active
+FT-C00692,Zainab Adeyemi,18,Male,Abuja,Student,Savings,59,61.3,1m+,Web,Active
+FT-C00693,Daniel Okafor,20,Male,Kano,Everyday,Savings,52,49.5,100k-249k,Web,Dormant
+FT-C00694,Chiamaka Ojo,33,Female,Enugu,SME,Savings,34,93.8,100k-249k,Mobile App,Active
+FT-C00695,Zainab Okafor,40,Female,Port Harcourt,Everyday,Savings,49,61.8,100k-249k,USSD,Active
+FT-C00696,Ibrahim Okafor,28,Female,Kano,Everyday,Current,28,55.2,500k-999k,Mobile App,Active
+FT-C00697,Ibrahim Bello,29,Female,Lagos,Everyday,Savings,83,57.1,250k-499k,Web,Active
+FT-C00698,David Okafor,27,Male,Port Harcourt,Premium,Savings,87,82.4,250k-499k,Mobile App,Active
+FT-C00699,Blessing Adebayo,49,Female,Abuja,Premium,Current,96,78.3,100k-249k,Mobile App,Active
+FT-C00700,Samuel Usman,33,Female,Abuja,SME,Savings,13,59,250k-499k,Mobile App,Active
+FT-C00701,Ada Williams,25,Male,Kano,Everyday,Savings,69,68.6,100k-249k,Web,Active
+FT-C00702,Amina Ibrahim,55,Male,Enugu,Premium,Savings,67,73,500k-999k,Web,Active
+FT-C00703,Zainab Okafor,29,Male,Lagos,Premium,Premium,61,55.3,500k-999k,Mobile App,Active
+FT-C00704,Ibrahim Bello,41,Female,Ibadan,Everyday,Savings,60,40.3,250k-499k,Mobile App,Active
+FT-C00705,Daniel Okafor,45,Female,Port Harcourt,Student,Savings,71,77.3,500k-999k,USSD,Active
+FT-C00706,Grace Garba,25,Female,Lagos,Student,Savings,24,56.3,250k-499k,Mobile App,Active
+FT-C00707,Fatima Mohammed,45,Female,Lagos,Student,Savings,63,75.9,250k-499k,Web,Active
+FT-C00708,David Garba,53,Male,Lagos,SME,Savings,86,73.8,100k-249k,Mobile App,Active
+FT-C00709,David Adeyemi,43,Male,Lagos,Student,Savings,61,69,250k-499k,Mobile App,Active
+FT-C00710,Mariam Adeyemi,25,Male,Lagos,Everyday,Savings,23,60.3,100k-249k,Mobile App,Active
+FT-C00711,David Okafor,45,Male,Lagos,Student,Premium,30,56.6,Below 100k,Mobile App,Active
+FT-C00712,Tunde Okafor,45,Female,Lagos,Everyday,Savings,60,47.5,100k-249k,Mobile App,Active
+FT-C00713,Fatima Usman,54,Male,Kano,Everyday,Savings,18,56.9,250k-499k,Mobile App,Active
+FT-C00714,Grace Adeyemi,58,Female,Port Harcourt,Everyday,Savings,96,78.2,100k-249k,Mobile App,Restricted
+FT-C00715,Grace Usman,53,Male,Kaduna,Student,Savings,56,93.2,250k-499k,Mobile App,Active
+FT-C00716,Chiamaka Usman,44,Male,Abuja,Student,Current,53,90.5,Below 100k,Mobile App,Dormant
+FT-C00717,Emeka Garba,34,Female,Kano,Everyday,Savings,7,70.6,100k-249k,Web,Active
+FT-C00718,Fatima Adebayo,26,Female,Enugu,Student,Savings,69,93.2,500k-999k,Mobile App,Active
+FT-C00719,Zainab Mohammed,50,Male,Ibadan,SME,Current,92,62.5,100k-249k,Mobile App,Active
+FT-C00720,Chiamaka Williams,37,Female,Abuja,Everyday,Savings,72,44.8,250k-499k,Mobile App,Active
+FT-C00721,Ibrahim Ojo,30,Female,Kano,Everyday,Savings,79,100,250k-499k,Mobile App,Active
+FT-C00722,Zainab Eze,45,Female,Lagos,Student,Savings,52,77.6,1m+,Web,Active
+FT-C00723,Emeka Williams,65,Male,Lagos,Everyday,Savings,4,40.4,250k-499k,Mobile App,Active
+FT-C00724,Fatima Adebayo,46,Male,Port Harcourt,Premium,Savings,34,96.1,Below 100k,Web,Active
+FT-C00725,Zainab Bello,30,Male,Port Harcourt,Everyday,Savings,69,54.6,100k-249k,Mobile App,Active
+FT-C00726,Chiamaka Adeyemi,63,Female,Lagos,Everyday,Savings,33,58.5,Below 100k,Mobile App,Active
+FT-C00727,Mariam Okafor,52,Male,Kaduna,Student,Premium,69,86.4,1m+,Mobile App,Active
+FT-C00728,Zainab Mohammed,23,Female,Ibadan,Student,Savings,38,92.5,Below 100k,Web,Active
+FT-C00729,Grace Nwosu,35,Male,Port Harcourt,Student,Savings,26,50,100k-249k,USSD,Active
+FT-C00730,Ada Adebayo,22,Male,Kaduna,SME,Savings,1,94.5,100k-249k,Web,Active
+FT-C00731,Blessing Mohammed,64,Female,Abuja,Student,Savings,4,83.7,500k-999k,Web,Active
+FT-C00732,Grace Okafor,42,Female,Kaduna,Student,Savings,39,53.6,100k-249k,Mobile App,Active
+FT-C00733,Ada Williams,19,Female,Port Harcourt,Everyday,Premium,54,63.6,1m+,USSD,Active
+FT-C00734,Fatima Nwosu,27,Female,Lagos,Premium,Current,90,95.3,Below 100k,Mobile App,Active
+FT-C00735,David Garba,47,Female,Kano,Everyday,Premium,33,39.9,Below 100k,Mobile App,Active
+FT-C00736,Fatima Adebayo,62,Male,Ibadan,Student,Premium,33,92.9,100k-249k,Mobile App,Restricted
+FT-C00737,Ibrahim Usman,22,Male,Kano,Everyday,Savings,72,83.2,500k-999k,USSD,Active
+FT-C00738,Mariam Okafor,50,Female,Kaduna,Premium,Savings,20,77.2,500k-999k,USSD,Active
+FT-C00739,Emeka Bello,18,Female,Kano,Everyday,Savings,16,70.4,Below 100k,USSD,Active
+FT-C00740,Blessing Okafor,35,Female,Ibadan,Student,Savings,21,100,Below 100k,Web,Active
+FT-C00741,Daniel Mohammed,49,Male,Benin City,SME,Premium,45,100,500k-999k,Mobile App,Active
+FT-C00742,Tunde Bello,64,Female,Ibadan,Everyday,Savings,90,56.9,Below 100k,USSD,Active
+FT-C00743,David Adebayo,28,Male,Abuja,SME,Premium,87,79,Below 100k,USSD,Active
+FT-C00744,Yusuf Bello,38,Male,Enugu,Everyday,Savings,82,100,Below 100k,Mobile App,Active
+FT-C00745,Daniel Adebayo,43,Male,Lagos,Premium,Premium,62,53.9,Below 100k,Mobile App,Active
+FT-C00746,Blessing Eze,42,Male,Kano,SME,Premium,31,72.4,100k-249k,Web,Active
+FT-C00747,Mariam Usman,39,Female,Enugu,Everyday,Current,42,86.1,Below 100k,USSD,Active
+FT-C00748,Amina Nwosu,44,Male,Kano,SME,Current,12,31.7,100k-249k,USSD,Active
+FT-C00749,Chiamaka Eze,30,Female,Ibadan,Everyday,Savings,65,82.9,500k-999k,USSD,Active
+FT-C00750,Daniel Bello,50,Female,Kano,Everyday,Current,73,48.4,100k-249k,USSD,Active
+FT-C00751,Ibrahim Ibrahim,51,Male,Abuja,SME,Premium,3,71.5,250k-499k,USSD,Dormant
+FT-C00752,Samuel Usman,58,Male,Enugu,Everyday,Current,90,88.6,Below 100k,Web,Active
+FT-C00753,Amina Garba,52,Male,Lagos,SME,Current,9,25,250k-499k,Web,Dormant
+FT-C00754,David Usman,18,Female,Lagos,SME,Current,51,82.1,100k-249k,Mobile App,Active
+FT-C00755,Samuel Mohammed,38,Female,Lagos,Everyday,Current,16,100,500k-999k,Web,Active
+FT-C00756,Samuel Okafor,65,Male,Port Harcourt,Premium,Savings,88,58.4,Below 100k,Mobile App,Active
+FT-C00757,Samuel Garba,23,Female,Port Harcourt,Everyday,Current,78,78.4,500k-999k,USSD,Active
+FT-C00758,Grace Adebayo,45,Male,Benin City,Everyday,Savings,3,92,100k-249k,Mobile App,Active
+FT-C00759,Tunde Eze,34,Male,Abuja,Everyday,Savings,24,39.3,100k-249k,Mobile App,Active
+FT-C00760,Amina Okafor,22,Male,Abuja,Everyday,Savings,73,81.6,1m+,Mobile App,Active
+FT-C00761,Emeka Eze,48,Female,Lagos,Everyday,Savings,13,86.4,250k-499k,Web,Active
+FT-C00762,Emeka Nwosu,22,Female,Abuja,Everyday,Savings,2,79.5,100k-249k,Mobile App,Active
+FT-C00763,Daniel Ibrahim,55,Female,Ibadan,SME,Savings,71,69.6,1m+,Mobile App,Active
+FT-C00764,Yusuf Ojo,20,Male,Lagos,Student,Savings,21,50,100k-249k,Mobile App,Active
+FT-C00765,Blessing Nwosu,40,Female,Lagos,Student,Savings,19,93,Below 100k,Mobile App,Active
+FT-C00766,David Bello,54,Male,Lagos,Premium,Savings,89,68.6,1m+,Mobile App,Active
+FT-C00767,Grace Ojo,54,Female,Lagos,Student,Current,47,51.7,100k-249k,Mobile App,Active
+FT-C00768,Fatima Bello,27,Prefer not to say,Abuja,Everyday,Premium,22,62.3,500k-999k,Mobile App,Active
+FT-C00769,Amina Adeyemi,27,Female,Lagos,Student,Current,75,74.6,Below 100k,Mobile App,Active
+FT-C00770,Samuel Nwosu,36,Female,Kano,SME,Premium,33,39.9,500k-999k,Mobile App,Active
+FT-C00771,Fatima Williams,34,Female,Benin City,Everyday,Current,32,68.3,250k-499k,Mobile App,Active
+FT-C00772,Ada Okafor,38,Male,Port Harcourt,Student,Savings,64,60.5,1m+,USSD,Active
+FT-C00773,Zainab Williams,31,Male,Kaduna,SME,Current,85,92,250k-499k,Mobile App,Active
+FT-C00774,Mariam Nwosu,26,Male,Abuja,SME,Current,39,34.3,Below 100k,Mobile App,Dormant
+FT-C00775,Samuel Mohammed,63,Female,Port Harcourt,Student,Savings,84,84.9,250k-499k,Mobile App,Active
+FT-C00776,Samuel Mohammed,18,Female,Kaduna,Everyday,Savings,72,93.5,Below 100k,Mobile App,Active
+FT-C00777,Fatima Williams,62,Male,Lagos,Everyday,Current,42,34.9,500k-999k,Mobile App,Active
+FT-C00778,Amina Nwosu,30,Female,Kaduna,Everyday,Savings,9,37.1,500k-999k,Mobile App,Active
+FT-C00779,Tunde Adebayo,21,Female,Lagos,Student,Current,25,100,250k-499k,Mobile App,Active
+FT-C00780,Emeka Bello,18,Prefer not to say,Abuja,Everyday,Savings,89,51.7,500k-999k,Mobile App,Active
+FT-C00781,Chiamaka Williams,57,Prefer not to say,Lagos,SME,Savings,2,100,Below 100k,Mobile App,Active
+FT-C00782,Mariam Ibrahim,49,Male,Kano,Everyday,Savings,19,35.5,250k-499k,Web,Active
+FT-C00783,Grace Usman,51,Male,Ibadan,Everyday,Savings,20,71.1,100k-249k,Mobile App,Active
+FT-C00784,Zainab Adeyemi,45,Female,Kano,Premium,Savings,93,67.6,250k-499k,USSD,Active
+FT-C00785,Daniel Mohammed,48,Female,Abuja,Student,Current,70,64.3,Below 100k,Mobile App,Active
+FT-C00786,Chiamaka Okafor,25,Male,Abuja,Everyday,Current,17,76.3,500k-999k,Web,Active
+FT-C00787,Daniel Williams,56,Male,Lagos,Everyday,Premium,89,77.4,Below 100k,Mobile App,Dormant
+FT-C00788,Ibrahim Garba,43,Female,Abuja,Premium,Savings,68,65,250k-499k,USSD,Active
+FT-C00789,Daniel Ojo,51,Female,Enugu,Everyday,Current,94,49.7,Below 100k,Mobile App,Active
+FT-C00790,Ada Garba,20,Female,Abuja,Everyday,Savings,84,86.9,500k-999k,Mobile App,Active
+FT-C00791,Emeka Ibrahim,29,Male,Benin City,Student,Savings,3,79.3,Below 100k,Mobile App,Active
+FT-C00792,Ibrahim Adeyemi,18,Male,Benin City,Premium,Savings,87,70.1,250k-499k,Mobile App,Active
+FT-C00793,Blessing Okafor,61,Male,Abuja,Everyday,Savings,51,78.7,100k-249k,Web,Active
+FT-C00794,Amina Bello,22,Female,Ibadan,Student,Savings,82,81.8,250k-499k,Web,Active
+FT-C00795,Grace Williams,47,Prefer not to say,Lagos,SME,Savings,26,54.3,100k-249k,Mobile App,Active
+FT-C00796,Yusuf Usman,47,Male,Lagos,Premium,Current,56,78.1,250k-499k,Mobile App,Active
+FT-C00797,Tunde Usman,34,Female,Lagos,Premium,Current,64,58,100k-249k,Mobile App,Active
+FT-C00798,Emeka Okafor,65,Female,Port Harcourt,SME,Savings,8,82.4,500k-999k,Web,Active
+FT-C00799,Samuel Garba,64,Female,Abuja,SME,Savings,81,64.5,Below 100k,Mobile App,Dormant
+FT-C00800,Chiamaka Adebayo,40,Female,Port Harcourt,Student,Savings,95,79,100k-249k,Mobile App,Active
+FT-C00801,David Ibrahim,32,Male,Port Harcourt,Everyday,Savings,37,60.2,250k-499k,USSD,Active
+FT-C00802,Blessing Garba,54,Female,Abuja,Premium,Current,27,79.9,Below 100k,Mobile App,Active
+FT-C00803,Grace Ibrahim,38,Male,Ibadan,Student,Savings,45,50.4,100k-249k,USSD,Active
+FT-C00804,Yusuf Usman,31,Female,Kano,Everyday,Current,4,68.7,1m+,Web,Active
+FT-C00805,Daniel Mohammed,19,Female,Lagos,Everyday,Premium,86,85.7,1m+,Mobile App,Dormant
+FT-C00806,Samuel Bello,28,Female,Lagos,Student,Savings,90,76.4,500k-999k,Mobile App,Active
+FT-C00807,Zainab Ibrahim,56,Female,Kano,Premium,Premium,96,71.5,100k-249k,Web,Active
+FT-C00808,Daniel Ojo,55,Male,Abuja,Everyday,Savings,88,100,100k-249k,Mobile App,Active
+FT-C00809,Emeka Nwosu,51,Male,Ibadan,Student,Savings,37,86.4,250k-499k,Mobile App,Active
+FT-C00810,Emeka Okafor,55,Male,Abuja,Everyday,Savings,96,83.4,Below 100k,Mobile App,Active
+FT-C00811,Zainab Mohammed,51,Male,Abuja,Everyday,Savings,71,79.8,1m+,Web,Active
+FT-C00812,Amina Mohammed,35,Female,Lagos,Student,Savings,33,82.1,100k-249k,Web,Active
+FT-C00813,Fatima Adeyemi,47,Female,Lagos,Everyday,Savings,31,97.8,1m+,Mobile App,Active
+FT-C00814,David Adebayo,32,Female,Ibadan,Everyday,Current,55,60.5,250k-499k,Mobile App,Active
+FT-C00815,David Nwosu,44,Male,Abuja,SME,Premium,12,86.2,500k-999k,Web,Active
+FT-C00816,Yusuf Ibrahim,51,Female,Kano,Everyday,Current,11,74.4,Below 100k,USSD,Active
+FT-C00817,Ibrahim Garba,55,Female,Benin City,Everyday,Savings,88,61.1,500k-999k,Mobile App,Active
+FT-C00818,Emeka Okafor,50,Male,Port Harcourt,SME,Current,72,66.2,100k-249k,Mobile App,Active
+FT-C00819,Emeka Williams,41,Female,Kano,Student,Current,32,71.9,250k-499k,USSD,Active
+FT-C00820,Ada Williams,32,Female,Lagos,Student,Current,57,52.5,500k-999k,Web,Active
+FT-C00821,David Nwosu,47,Female,Abuja,SME,Current,38,83.6,Below 100k,Mobile App,Active
+FT-C00822,Fatima Adeyemi,59,Male,Kano,Everyday,Premium,60,66.1,100k-249k,USSD,Active
+FT-C00823,Amina Okafor,34,Male,Abuja,Student,Savings,86,69.5,250k-499k,Web,Dormant
+FT-C00824,Fatima Eze,22,Male,Port Harcourt,Premium,Current,19,92.4,100k-249k,Mobile App,Active
+FT-C00825,Ibrahim Eze,46,Female,Lagos,Student,Savings,84,70.3,250k-499k,Web,Active
+FT-C00826,Zainab Nwosu,21,Prefer not to say,Port Harcourt,Premium,Premium,56,95.9,100k-249k,Web,Active
+FT-C00827,Grace Garba,27,Male,Enugu,Premium,Savings,14,58.6,100k-249k,USSD,Active
+FT-C00828,Mariam Nwosu,34,Female,Enugu,Premium,Savings,33,48.3,250k-499k,Mobile App,Active
+FT-C00829,Grace Okafor,27,Male,Kano,Premium,Savings,10,62.8,250k-499k,Mobile App,Active
+FT-C00830,Daniel Bello,34,Female,Kano,Student,Current,80,17.3,100k-249k,Web,Active
+FT-C00831,Ibrahim Mohammed,37,Male,Port Harcourt,Premium,Savings,64,84.3,500k-999k,Mobile App,Dormant
+FT-C00832,Ada Garba,41,Male,Port Harcourt,Premium,Savings,64,49.3,500k-999k,Mobile App,Active
+FT-C00833,Samuel Usman,22,Female,Lagos,Everyday,Premium,62,56.9,250k-499k,USSD,Active
+FT-C00834,Ada Adeyemi,51,Prefer not to say,Abuja,Premium,Premium,68,80.9,100k-249k,Mobile App,Active
+FT-C00835,Emeka Usman,23,Male,Abuja,Student,Savings,91,70.1,100k-249k,Web,Dormant
+FT-C00836,Daniel Usman,19,Male,Kaduna,Student,Savings,92,60.1,250k-499k,USSD,Restricted
+FT-C00837,Fatima Usman,30,Female,Abuja,Student,Current,43,31.3,250k-499k,Mobile App,Active
+FT-C00838,Grace Adeyemi,60,Female,Port Harcourt,SME,Premium,80,91.4,100k-249k,USSD,Active
+FT-C00839,Emeka Nwosu,60,Female,Port Harcourt,Student,Savings,59,81,250k-499k,Web,Active
+FT-C00840,Mariam Usman,65,Male,Ibadan,Premium,Current,52,100,100k-249k,Mobile App,Active
+FT-C00841,Ada Adebayo,28,Female,Kano,Student,Savings,19,57.3,Below 100k,Mobile App,Active
+FT-C00842,Daniel Adebayo,64,Male,Lagos,SME,Current,21,41.8,250k-499k,USSD,Dormant
+FT-C00843,Chiamaka Bello,40,Male,Port Harcourt,Premium,Current,22,85.9,250k-499k,Mobile App,Active
+FT-C00844,David Usman,33,Female,Benin City,Student,Savings,9,64.6,100k-249k,Mobile App,Active
+FT-C00845,Mariam Usman,48,Male,Abuja,Student,Savings,9,79.3,250k-499k,Mobile App,Active
+FT-C00846,Ibrahim Garba,28,Female,Lagos,Premium,Premium,73,97.2,1m+,Mobile App,Active
+FT-C00847,Blessing Williams,33,Male,Ibadan,Everyday,Current,27,75,250k-499k,Mobile App,Active
+FT-C00848,Yusuf Adebayo,25,Male,Benin City,Everyday,Savings,17,71,250k-499k,USSD,Active
+FT-C00849,Mariam Eze,21,Female,Lagos,SME,Current,44,72.1,Below 100k,USSD,Active
+FT-C00850,Yusuf Okafor,57,Female,Kano,Premium,Current,45,38.5,Below 100k,Mobile App,Active
+FT-C00851,Mariam Usman,21,Female,Benin City,Premium,Savings,8,87.9,100k-249k,Mobile App,Active
+FT-C00852,Grace Bello,42,Male,Abuja,SME,Current,80,89.1,250k-499k,Web,Active
+FT-C00853,Chiamaka Nwosu,20,Male,Kaduna,Premium,Savings,18,77.6,500k-999k,Mobile App,Active
+FT-C00854,Amina Adebayo,49,Male,Kano,Premium,Premium,33,40.7,100k-249k,Web,Active
+FT-C00855,Daniel Garba,20,Female,Kano,Student,Savings,1,65.8,100k-249k,USSD,Active
+FT-C00856,Amina Williams,44,Female,Kano,Student,Savings,76,93.9,100k-249k,USSD,Active
+FT-C00857,Blessing Ojo,46,Female,Lagos,Everyday,Savings,6,57.8,100k-249k,Mobile App,Active
+FT-C00858,David Mohammed,49,Male,Lagos,Premium,Current,41,89.3,1m+,Mobile App,Active
+FT-C00859,Emeka Adebayo,36,Male,Abuja,Premium,Current,55,69,250k-499k,Mobile App,Active
+FT-C00860,David Williams,38,Female,Lagos,Everyday,Premium,5,80.8,Below 100k,Mobile App,Active
+FT-C00861,David Usman,22,Female,Abuja,Premium,Current,59,60.6,250k-499k,Mobile App,Active
+FT-C00862,Ada Ojo,35,Male,Enugu,Everyday,Savings,80,69.5,250k-499k,USSD,Dormant
+FT-C00863,Amina Mohammed,45,Male,Benin City,Everyday,Premium,18,75.9,250k-499k,USSD,Active
+FT-C00864,Ada Adebayo,59,Male,Ibadan,Everyday,Savings,49,48.5,Below 100k,USSD,Active
+FT-C00865,Zainab Usman,39,Male,Benin City,Everyday,Current,82,72.9,100k-249k,USSD,Active
+FT-C00866,Mariam Ibrahim,38,Female,Kano,Premium,Savings,65,19.6,Below 100k,Mobile App,Dormant
+FT-C00867,Yusuf Adeyemi,23,Female,Abuja,SME,Current,83,57.2,500k-999k,Web,Active
+FT-C00868,Samuel Usman,18,Male,Lagos,Student,Current,54,77.8,250k-499k,Mobile App,Active
+FT-C00869,David Garba,22,Male,Port Harcourt,Everyday,Current,61,88.2,250k-499k,Mobile App,Active
+FT-C00870,Emeka Bello,58,Female,Kano,Everyday,Savings,8,76.5,100k-249k,Mobile App,Active
+FT-C00871,Tunde Adeyemi,29,Male,Abuja,Everyday,Savings,3,43,100k-249k,Web,Active
+FT-C00872,Blessing Bello,43,Male,Ibadan,Premium,Savings,25,86.6,Below 100k,Web,Active
+FT-C00873,Amina Ibrahim,63,Male,Lagos,Everyday,Current,69,47.5,1m+,Mobile App,Active
+FT-C00874,Tunde Garba,51,Male,Kano,Premium,Savings,55,79.1,100k-249k,Mobile App,Active
+FT-C00875,Daniel Bello,31,Female,Benin City,Everyday,Premium,40,48.1,Below 100k,Mobile App,Active
+FT-C00876,Ada Mohammed,43,Male,Kano,SME,Savings,83,54.1,1m+,Mobile App,Active
+FT-C00877,Grace Williams,62,Male,Kaduna,Everyday,Savings,82,50.8,250k-499k,Mobile App,Active
+FT-C00878,Ada Usman,44,Male,Benin City,Everyday,Current,50,70.5,500k-999k,Web,Active
+FT-C00879,Ibrahim Eze,26,Male,Enugu,Student,Savings,95,64.5,Below 100k,Web,Active
+FT-C00880,Samuel Adeyemi,43,Male,Kaduna,Everyday,Premium,33,77.2,250k-499k,Mobile App,Active
+FT-C00881,Grace Ibrahim,64,Female,Benin City,Everyday,Current,18,67.7,100k-249k,Web,Active
+FT-C00882,Tunde Williams,39,Male,Ibadan,Premium,Savings,57,40.7,500k-999k,Mobile App,Active
+FT-C00883,Grace Adebayo,64,Male,Lagos,Premium,Savings,16,73,Below 100k,USSD,Active
+FT-C00884,Grace Nwosu,47,Male,Abuja,Student,Savings,80,36.3,100k-249k,Mobile App,Dormant
+FT-C00885,Blessing Adebayo,60,Male,Port Harcourt,Everyday,Savings,38,52.1,500k-999k,Web,Restricted
+FT-C00886,Yusuf Ibrahim,65,Male,Lagos,Everyday,Current,41,61.4,250k-499k,USSD,Active
+FT-C00887,Ada Williams,34,Female,Lagos,Everyday,Savings,7,60.2,250k-499k,USSD,Active
+FT-C00888,Chiamaka Okafor,43,Male,Kaduna,Everyday,Savings,78,38.3,Below 100k,Mobile App,Active
+FT-C00889,Yusuf Usman,53,Female,Enugu,SME,Savings,53,92.7,Below 100k,Web,Active
+FT-C00890,David Mohammed,18,Female,Benin City,Student,Savings,63,97.7,250k-499k,Mobile App,Active
+FT-C00891,Mariam Adeyemi,25,Male,Abuja,Everyday,Savings,89,100,250k-499k,Mobile App,Active
+FT-C00892,Emeka Nwosu,52,Male,Lagos,Premium,Premium,32,88.7,1m+,Mobile App,Active
+FT-C00893,Grace Williams,32,Female,Lagos,Everyday,Current,38,60.9,250k-499k,USSD,Dormant
+FT-C00894,Yusuf Okafor,64,Female,Lagos,SME,Current,22,60.6,250k-499k,USSD,Active
+FT-C00895,Chiamaka Okafor,39,Male,Lagos,Everyday,Current,16,59.6,500k-999k,Mobile App,Active
+FT-C00896,Zainab Okafor,31,Female,Lagos,Everyday,Savings,52,100,Below 100k,Mobile App,Active
+FT-C00897,Ada Garba,43,Female,Enugu,Premium,Premium,29,65.9,100k-249k,USSD,Active
+FT-C00898,Samuel Okafor,45,Female,Kano,Premium,Savings,16,90.8,100k-249k,Mobile App,Active
+FT-C00899,Ibrahim Williams,40,Female,Lagos,Premium,Savings,76,89.4,Below 100k,Mobile App,Active
+FT-C00900,Fatima Garba,31,Female,Lagos,Everyday,Savings,17,71.4,500k-999k,Mobile App,Active
+FT-C00901,Yusuf Eze,41,Female,Port Harcourt,Everyday,Savings,64,41.9,250k-499k,Web,Active
+FT-C00902,Ada Mohammed,19,Female,Lagos,Premium,Current,91,66.3,250k-499k,Mobile App,Active
+FT-C00903,Daniel Eze,62,Male,Kaduna,Everyday,Savings,89,70.6,100k-249k,Web,Active
+FT-C00904,Fatima Usman,43,Male,Abuja,SME,Current,13,91,250k-499k,Mobile App,Active
+FT-C00905,Grace Garba,31,Male,Abuja,Everyday,Savings,72,68.4,Below 100k,Mobile App,Dormant
+FT-C00906,Blessing Nwosu,24,Female,Abuja,Premium,Savings,56,46.2,250k-499k,Mobile App,Active
+FT-C00907,Ibrahim Bello,20,Female,Lagos,Student,Current,5,85.8,100k-249k,Mobile App,Active
+FT-C00908,David Williams,64,Male,Ibadan,Everyday,Savings,12,63.9,500k-999k,Mobile App,Active
+FT-C00909,Samuel Mohammed,40,Female,Kano,Premium,Savings,41,22.2,100k-249k,Mobile App,Active
+FT-C00910,Fatima Adebayo,63,Male,Ibadan,Student,Savings,3,73.8,100k-249k,Web,Active
+FT-C00911,Tunde Bello,60,Male,Lagos,Everyday,Current,33,77,250k-499k,Mobile App,Active
+FT-C00912,Chiamaka Adeyemi,64,Male,Port Harcourt,SME,Current,86,52.8,500k-999k,Web,Active
+FT-C00913,Emeka Okafor,62,Female,Port Harcourt,Premium,Savings,50,64.5,250k-499k,USSD,Active
+FT-C00914,Ada Adebayo,35,Female,Enugu,Everyday,Premium,56,79.8,250k-499k,Web,Active
+FT-C00915,Chiamaka Usman,55,Male,Abuja,Everyday,Premium,9,74,1m+,USSD,Active
+FT-C00916,Ada Garba,52,Female,Abuja,Everyday,Current,82,39.9,1m+,Mobile App,Active
+FT-C00917,Samuel Adeyemi,32,Male,Ibadan,Student,Current,50,90.6,500k-999k,Mobile App,Active
+FT-C00918,Zainab Usman,42,Male,Ibadan,Student,Savings,29,98.7,500k-999k,USSD,Active
+FT-C00919,Grace Okafor,54,Prefer not to say,Abuja,Student,Current,39,58.8,100k-249k,USSD,Active
+FT-C00920,Tunde Nwosu,45,Female,Abuja,SME,Savings,91,33.6,500k-999k,USSD,Active
+FT-C00921,David Mohammed,27,Male,Port Harcourt,Student,Savings,45,81.9,100k-249k,Web,Active
+FT-C00922,Fatima Ibrahim,56,Male,Enugu,Premium,Premium,17,55.9,1m+,Web,Active
+FT-C00923,Amina Eze,34,Female,Abuja,Everyday,Current,56,77.6,Below 100k,Mobile App,Active
+FT-C00924,Daniel Adebayo,56,Female,Kaduna,Premium,Savings,46,100,100k-249k,Web,Active
+FT-C00925,Ibrahim Okafor,39,Male,Port Harcourt,Everyday,Savings,67,40.2,250k-499k,Mobile App,Active
+FT-C00926,Zainab Williams,43,Female,Kaduna,Student,Current,69,53.7,100k-249k,Mobile App,Active
+FT-C00927,Ada Ojo,61,Female,Benin City,Everyday,Savings,14,64.5,100k-249k,Mobile App,Active
+FT-C00928,Daniel Bello,42,Female,Abuja,Everyday,Savings,67,91.3,250k-499k,Mobile App,Active
+FT-C00929,Blessing Usman,34,Male,Enugu,Everyday,Savings,23,100,500k-999k,Mobile App,Active
+FT-C00930,Mariam Usman,30,Male,Lagos,Everyday,Savings,94,72.4,250k-499k,Web,Active
+FT-C00931,Daniel Bello,37,Male,Enugu,Premium,Current,61,38.6,100k-249k,USSD,Active
+FT-C00932,Samuel Garba,42,Female,Ibadan,Premium,Savings,23,61.8,500k-999k,Web,Active
+FT-C00933,David Okafor,21,Female,Lagos,Premium,Current,27,54.1,100k-249k,Mobile App,Active
+FT-C00934,Daniel Ojo,27,Male,Ibadan,Premium,Savings,54,81,Below 100k,USSD,Active
+FT-C00935,Daniel Nwosu,20,Male,Kaduna,Student,Current,10,74.8,250k-499k,Mobile App,Active
+FT-C00936,Blessing Bello,58,Female,Lagos,Everyday,Premium,89,49.2,500k-999k,Web,Active
+FT-C00937,Zainab Bello,62,Male,Port Harcourt,Everyday,Current,77,53,250k-499k,Mobile App,Active
+FT-C00938,Zainab Adeyemi,35,Prefer not to say,Kano,Premium,Premium,16,61.5,250k-499k,Mobile App,Active
+FT-C00939,Emeka Adebayo,64,Male,Benin City,Premium,Premium,41,63.7,100k-249k,Mobile App,Active
+FT-C00940,Emeka Adeyemi,53,Male,Abuja,Everyday,Savings,55,67.2,250k-499k,Web,Active
+FT-C00941,Mariam Usman,64,Male,Lagos,Everyday,Current,61,68.9,Below 100k,Mobile App,Active
+FT-C00942,Samuel Williams,39,Female,Lagos,Everyday,Premium,86,90.2,1m+,Mobile App,Active
+FT-C00943,Ada Eze,51,Male,Port Harcourt,Premium,Savings,81,60.9,500k-999k,Mobile App,Active
+FT-C00944,Fatima Adebayo,64,Prefer not to say,Abuja,Everyday,Savings,87,58.2,250k-499k,Mobile App,Active
+FT-C00945,David Adeyemi,25,Female,Kaduna,Premium,Premium,49,43.9,250k-499k,Web,Active
+FT-C00946,Grace Usman,57,Male,Lagos,Student,Current,73,64,500k-999k,Mobile App,Active
+FT-C00947,Yusuf Mohammed,61,Male,Ibadan,Everyday,Savings,52,72.6,250k-499k,Mobile App,Active
+FT-C00948,Daniel Okafor,36,Male,Lagos,SME,Savings,2,37,100k-249k,Mobile App,Active
+FT-C00949,Ada Bello,59,Male,Lagos,Premium,Current,96,61.8,Below 100k,Mobile App,Active
+FT-C00950,Samuel Eze,58,Male,Abuja,Premium,Savings,50,88.9,250k-499k,Mobile App,Active
+FT-C00951,Fatima Nwosu,54,Male,Abuja,Student,Current,86,79.7,1m+,Web,Active
+FT-C00952,Zainab Bello,23,Female,Ibadan,Student,Current,43,74.7,Below 100k,Mobile App,Active
+FT-C00953,David Nwosu,43,Male,Enugu,Premium,Current,77,79.2,100k-249k,Mobile App,Active
+FT-C00954,Ada Ibrahim,51,Female,Ibadan,Everyday,Savings,8,57.7,100k-249k,Mobile App,Active
+FT-C00955,Zainab Adeyemi,62,Female,Kaduna,Everyday,Current,59,55.3,500k-999k,Mobile App,Active
+FT-C00956,Chiamaka Eze,23,Female,Enugu,Everyday,Current,65,90.9,100k-249k,Mobile App,Active
+FT-C00957,Chiamaka Eze,54,Male,Port Harcourt,Everyday,Current,81,82.9,100k-249k,Mobile App,Active
+FT-C00958,Ibrahim Ojo,50,Female,Benin City,Everyday,Savings,12,54.6,250k-499k,Mobile App,Active
+FT-C00959,Zainab Bello,39,Male,Ibadan,Everyday,Savings,4,34.2,250k-499k,Mobile App,Active
+FT-C00960,Ada Mohammed,38,Male,Lagos,Everyday,Premium,77,54.9,Below 100k,USSD,Active
+FT-C00961,Emeka Garba,23,Male,Kano,Student,Savings,95,77.8,Below 100k,Web,Active
+FT-C00962,Ibrahim Usman,23,Female,Lagos,SME,Savings,41,56.2,250k-499k,Web,Dormant
+FT-C00963,Grace Eze,65,Male,Port Harcourt,SME,Savings,7,73.9,250k-499k,Mobile App,Active
+FT-C00964,Chiamaka Eze,21,Male,Kano,Premium,Current,87,93.6,1m+,Web,Active
+FT-C00965,Tunde Garba,47,Male,Lagos,Student,Savings,88,66.3,250k-499k,USSD,Active
+FT-C00966,Ada Ibrahim,28,Female,Lagos,SME,Savings,69,72.2,Below 100k,Web,Active
+FT-C00967,Ada Mohammed,47,Female,Enugu,Everyday,Savings,69,80.3,250k-499k,Mobile App,Active
+FT-C00968,Chiamaka Nwosu,48,Female,Ibadan,Everyday,Current,81,48.5,100k-249k,Mobile App,Active
+FT-C00969,Amina Williams,41,Female,Lagos,SME,Savings,30,54.1,Below 100k,Mobile App,Dormant
+FT-C00970,Fatima Garba,26,Female,Ibadan,Premium,Savings,73,81.1,1m+,Mobile App,Active
+FT-C00971,Ibrahim Usman,20,Male,Port Harcourt,Premium,Savings,6,68.7,500k-999k,Mobile App,Active
+FT-C00972,Ada Adeyemi,48,Female,Port Harcourt,Everyday,Premium,89,70.2,100k-249k,USSD,Active
+FT-C00973,Mariam Okafor,57,Female,Kaduna,Everyday,Savings,19,68.6,100k-249k,Web,Active
+FT-C00974,Mariam Bello,54,Female,Ibadan,SME,Savings,80,85.6,Below 100k,Mobile App,Active
+FT-C00975,Fatima Usman,53,Female,Abuja,Premium,Savings,85,75.8,100k-249k,Mobile App,Active
+FT-C00976,Daniel Mohammed,41,Female,Benin City,Everyday,Premium,66,76.1,250k-499k,Mobile App,Active
+FT-C00977,Chiamaka Eze,48,Female,Enugu,Everyday,Current,10,90,100k-249k,Mobile App,Active
+FT-C00978,Ada Usman,23,Female,Lagos,Premium,Premium,16,96.9,1m+,Mobile App,Active
+FT-C00979,Chiamaka Okafor,19,Male,Lagos,Premium,Current,37,100,Below 100k,Mobile App,Active
+FT-C00980,Tunde Okafor,37,Prefer not to say,Lagos,Everyday,Savings,79,57.6,250k-499k,Mobile App,Active
+FT-C00981,Emeka Williams,45,Female,Ibadan,SME,Current,77,100,500k-999k,USSD,Active
+FT-C00982,Mariam Ojo,28,Female,Ibadan,Everyday,Savings,77,48.3,250k-499k,Mobile App,Dormant
+FT-C00983,Daniel Ojo,21,Male,Ibadan,Everyday,Savings,32,100,Below 100k,Mobile App,Active
+FT-C00984,David Eze,32,Female,Kaduna,Student,Savings,47,56.6,100k-249k,Mobile App,Active
+FT-C00985,Fatima Ibrahim,23,Female,Kano,Everyday,Savings,72,66.8,100k-249k,Mobile App,Dormant
+FT-C00986,Ada Okafor,47,Male,Lagos,Student,Premium,43,68.3,1m+,Mobile App,Active
+FT-C00987,Blessing Adebayo,55,Female,Abuja,Student,Savings,82,52.4,1m+,Mobile App,Active
+FT-C00988,Yusuf Okafor,19,Male,Abuja,Student,Premium,36,69.6,1m+,Mobile App,Active
+FT-C00989,Chiamaka Mohammed,32,Male,Abuja,Everyday,Savings,26,53.3,500k-999k,Mobile App,Active
+FT-C00990,Emeka Adebayo,28,Female,Ibadan,Everyday,Savings,10,45.8,100k-249k,Web,Dormant
+FT-C00991,Daniel Usman,25,Female,Enugu,Everyday,Premium,31,67.3,500k-999k,Mobile App,Active
+FT-C00992,Ibrahim Ibrahim,43,Male,Lagos,Premium,Current,29,96.6,1m+,Mobile App,Active
+FT-C00993,Mariam Adeyemi,62,Female,Port Harcourt,Student,Current,5,63.4,100k-249k,Mobile App,Active
+FT-C00994,Amina Nwosu,61,Female,Kano,Student,Savings,77,84.9,100k-249k,Web,Active
+FT-C00995,Fatima Ojo,22,Male,Abuja,Student,Savings,1,52.8,250k-499k,Mobile App,Active
+FT-C00996,Zainab Bello,23,Male,Lagos,SME,Current,87,44.9,100k-249k,Mobile App,Active
+FT-C00997,Ibrahim Ojo,43,Female,Abuja,Student,Current,3,76.2,Below 100k,Web,Active
+FT-C00998,David Mohammed,21,Male,Lagos,Everyday,Savings,67,99.6,1m+,Mobile App,Active
+FT-C00999,Blessing Okafor,36,Female,Kaduna,Everyday,Premium,71,71.8,1m+,Mobile App,Dormant
+FT-C01000,David Usman,37,Male,Lagos,Student,Current,35,82.9,Below 100k,Mobile App,Active
+FT-C01001,Tunde Adebayo,50,Male,Abuja,Everyday,Premium,15,94.9,100k-249k,Web,Active
+FT-C01002,Fatima Ojo,37,Male,Port Harcourt,Everyday,Current,67,67.3,500k-999k,USSD,Active
+FT-C01003,Emeka Usman,29,Male,Kaduna,Premium,Current,93,65.3,250k-499k,USSD,Active
+FT-C01004,Blessing Adeyemi,64,Prefer not to say,Lagos,Student,Savings,30,76.5,100k-249k,USSD,Active
+FT-C01005,Zainab Eze,18,Female,Lagos,Everyday,Savings,82,79.7,500k-999k,Web,Active
+FT-C01006,Emeka Bello,43,Male,Lagos,Student,Premium,75,42.8,500k-999k,Web,Dormant
+FT-C01007,Samuel Ojo,31,Female,Lagos,Student,Savings,43,73.3,1m+,Web,Active
+FT-C01008,Grace Mohammed,55,Female,Lagos,Premium,Savings,60,68,100k-249k,Mobile App,Active
+FT-C01009,Fatima Ojo,54,Female,Ibadan,Everyday,Savings,40,53.8,Below 100k,Mobile App,Active
+FT-C01010,Chiamaka Adebayo,28,Male,Lagos,Everyday,Savings,65,66.7,1m+,Mobile App,Active
+FT-C01011,Emeka Usman,53,Male,Lagos,Student,Premium,29,47,Below 100k,Mobile App,Active
+FT-C01012,Emeka Bello,30,Female,Benin City,Student,Premium,74,40.8,250k-499k,Web,Active
+FT-C01013,Grace Usman,60,Female,Abuja,SME,Savings,92,69.2,Below 100k,Mobile App,Active
+FT-C01014,Amina Bello,20,Male,Abuja,Premium,Savings,95,84.2,100k-249k,Mobile App,Active
+FT-C01015,Daniel Garba,50,Female,Lagos,Everyday,Current,19,61.7,100k-249k,Mobile App,Active
+FT-C01016,Emeka Mohammed,23,Female,Kaduna,Everyday,Current,3,50.7,Below 100k,USSD,Active
+FT-C01017,Zainab Ojo,27,Male,Lagos,Student,Premium,36,53.5,1m+,Web,Active
+FT-C01018,Samuel Adebayo,22,Male,Enugu,Everyday,Savings,43,77.9,Below 100k,Mobile App,Active
+FT-C01019,Daniel Ojo,40,Prefer not to say,Kano,Everyday,Savings,15,98,500k-999k,Mobile App,Active
+FT-C01020,Grace Williams,27,Female,Lagos,Premium,Savings,41,81.9,500k-999k,Mobile App,Active
+FT-C01021,Emeka Usman,61,Female,Kaduna,Everyday,Premium,90,91.4,100k-249k,Mobile App,Active
+FT-C01022,Tunde Ojo,19,Male,Lagos,Everyday,Current,80,49.1,250k-499k,Mobile App,Active
+FT-C01023,Chiamaka Adeyemi,30,Male,Lagos,Everyday,Current,36,66.7,100k-249k,Web,Active
+FT-C01024,Emeka Okafor,57,Male,Benin City,Everyday,Savings,84,86.3,500k-999k,Mobile App,Active
+FT-C01025,Zainab Mohammed,19,Male,Kano,Everyday,Current,77,42.8,250k-499k,Mobile App,Active
+FT-C01026,Daniel Bello,37,Female,Ibadan,Student,Current,33,56.1,100k-249k,Mobile App,Active
+FT-C01027,Emeka Okafor,18,Male,Lagos,Student,Savings,5,85,100k-249k,Mobile App,Active
+FT-C01028,Grace Bello,54,Female,Abuja,Everyday,Savings,78,72.7,250k-499k,Mobile App,Active
+FT-C01029,Grace Bello,26,Female,Kano,Student,Savings,91,50.6,500k-999k,Mobile App,Active
+FT-C01030,Samuel Ojo,34,Male,Lagos,Everyday,Savings,87,38.6,Below 100k,Mobile App,Active
+FT-C01031,Emeka Eze,26,Female,Lagos,Premium,Savings,14,92.1,250k-499k,Web,Active
+FT-C01032,Ibrahim Usman,28,Female,Lagos,SME,Savings,68,31,100k-249k,Mobile App,Active
+FT-C01033,Mariam Eze,32,Male,Lagos,Student,Savings,83,79.4,500k-999k,Mobile App,Active
+FT-C01034,Ada Ibrahim,41,Female,Enugu,Student,Savings,47,58.4,Below 100k,Mobile App,Active
+FT-C01035,Emeka Adebayo,55,Male,Abuja,Everyday,Savings,54,86.8,250k-499k,Web,Active
+FT-C01036,Emeka Ibrahim,52,Female,Kaduna,Everyday,Premium,4,49.2,Below 100k,Mobile App,Active
+FT-C01037,Yusuf Okafor,47,Male,Abuja,SME,Savings,94,100,250k-499k,Web,Active
+FT-C01038,Daniel Ibrahim,48,Female,Kano,Everyday,Current,83,75.2,500k-999k,USSD,Active
+FT-C01039,Zainab Adeyemi,22,Female,Lagos,Everyday,Savings,95,78.2,500k-999k,Mobile App,Active
+FT-C01040,Samuel Nwosu,61,Prefer not to say,Abuja,Student,Current,95,54.1,500k-999k,Web,Active
+FT-C01041,Blessing Bello,31,Male,Lagos,Student,Savings,9,65.6,250k-499k,Web,Active
+FT-C01042,David Usman,28,Male,Abuja,SME,Current,53,66.1,500k-999k,Mobile App,Active
+FT-C01043,Blessing Ojo,26,Female,Port Harcourt,Everyday,Savings,77,100,250k-499k,Web,Dormant
+FT-C01044,David Williams,51,Male,Kaduna,SME,Current,78,75.2,1m+,Mobile App,Active
+FT-C01045,Mariam Ibrahim,29,Male,Ibadan,Everyday,Savings,60,77.8,250k-499k,Mobile App,Active
+FT-C01046,Amina Bello,52,Male,Lagos,Everyday,Current,46,77.6,250k-499k,Web,Active
+FT-C01047,Mariam Adebayo,52,Male,Lagos,Premium,Savings,54,79.3,100k-249k,Web,Active
+FT-C01048,Ibrahim Nwosu,18,Female,Lagos,Everyday,Savings,74,43,250k-499k,USSD,Active
+FT-C01049,Zainab Adeyemi,57,Female,Port Harcourt,Everyday,Savings,95,100,Below 100k,Mobile App,Active
+FT-C01050,Blessing Adebayo,39,Male,Kano,Student,Current,37,52.2,500k-999k,Mobile App,Dormant
+FT-C01051,Fatima Ojo,46,Female,Kaduna,Everyday,Premium,23,67.3,250k-499k,Mobile App,Active
+FT-C01052,Zainab Usman,25,Female,Lagos,Everyday,Current,27,95.6,1m+,Mobile App,Active
+FT-C01053,Daniel Eze,28,Male,Port Harcourt,Everyday,Savings,70,100,Below 100k,Mobile App,Restricted
+FT-C01054,Grace Adeyemi,58,Male,Abuja,Everyday,Savings,90,82.5,100k-249k,Mobile App,Dormant
+FT-C01055,Mariam Adeyemi,54,Male,Ibadan,Premium,Premium,66,58.9,500k-999k,Mobile App,Active
+FT-C01056,Yusuf Nwosu,31,Male,Port Harcourt,Student,Savings,61,70.3,100k-249k,Mobile App,Active
+FT-C01057,Blessing Ibrahim,47,Male,Ibadan,Student,Current,77,71,250k-499k,Mobile App,Active
+FT-C01058,Mariam Adebayo,52,Female,Ibadan,Everyday,Premium,51,71.6,500k-999k,USSD,Active
+FT-C01059,Mariam Ojo,38,Female,Lagos,SME,Premium,50,45.9,250k-499k,Web,Active
+FT-C01060,Tunde Usman,54,Female,Benin City,Everyday,Savings,19,90.7,100k-249k,Mobile App,Active
+FT-C01061,Ibrahim Bello,22,Female,Lagos,Everyday,Savings,1,70.4,500k-999k,USSD,Dormant
+FT-C01062,Zainab Adebayo,36,Male,Ibadan,Student,Savings,40,55,Below 100k,Web,Active
+FT-C01063,Amina Usman,31,Female,Abuja,Everyday,Current,32,59,500k-999k,USSD,Active
+FT-C01064,Ibrahim Ojo,43,Female,Port Harcourt,SME,Savings,22,72.9,Below 100k,Mobile App,Active
+FT-C01065,David Adebayo,21,Female,Enugu,Premium,Savings,93,42.7,250k-499k,Mobile App,Active
+FT-C01066,Chiamaka Bello,42,Female,Enugu,Student,Savings,66,83.8,Below 100k,USSD,Active
+FT-C01067,Blessing Usman,62,Female,Benin City,Everyday,Savings,40,72.2,250k-499k,Mobile App,Active
+FT-C01068,Chiamaka Ibrahim,59,Female,Port Harcourt,Everyday,Current,38,96.2,Below 100k,USSD,Active
+FT-C01069,David Garba,42,Female,Kano,Everyday,Current,48,69.4,500k-999k,Web,Active
+FT-C01070,Ibrahim Ojo,35,Female,Port Harcourt,Student,Savings,55,48.5,250k-499k,USSD,Active
+FT-C01071,Chiamaka Williams,57,Female,Enugu,Premium,Savings,75,46.4,Below 100k,Mobile App,Active
+FT-C01072,Grace Okafor,25,Male,Abuja,SME,Premium,81,61,250k-499k,Mobile App,Active
+FT-C01073,Blessing Nwosu,56,Female,Kaduna,Everyday,Savings,55,62.9,250k-499k,Mobile App,Active
+FT-C01074,Emeka Okafor,57,Female,Kaduna,Everyday,Current,51,57.8,100k-249k,USSD,Active
+FT-C01075,Ibrahim Mohammed,31,Male,Kano,Everyday,Premium,60,70.3,Below 100k,Mobile App,Active
+FT-C01076,Grace Williams,49,Female,Lagos,Premium,Savings,8,57.3,100k-249k,Mobile App,Active
+FT-C01077,Blessing Ojo,55,Male,Lagos,SME,Savings,86,72.6,Below 100k,Mobile App,Active
+FT-C01078,Ada Eze,50,Male,Benin City,Everyday,Premium,68,58.6,Below 100k,Mobile App,Active
+FT-C01079,Tunde Ibrahim,40,Female,Lagos,Premium,Savings,75,79.4,100k-249k,Mobile App,Active
+FT-C01080,Grace Williams,32,Male,Benin City,Everyday,Savings,72,62.4,250k-499k,Mobile App,Active
+FT-C01081,Zainab Nwosu,50,Female,Port Harcourt,Premium,Savings,9,90.4,250k-499k,Web,Active
+FT-C01082,Amina Usman,42,Male,Abuja,SME,Savings,90,79.7,Below 100k,Mobile App,Active
+FT-C01083,Mariam Adebayo,34,Female,Enugu,Everyday,Current,2,71.5,1m+,USSD,Active
+FT-C01084,Fatima Usman,50,Male,Ibadan,Everyday,Premium,80,64.3,500k-999k,Web,Active
+FT-C01085,Chiamaka Nwosu,64,Female,Port Harcourt,SME,Current,95,40.7,100k-249k,Mobile App,Active
+FT-C01086,Ibrahim Williams,19,Male,Port Harcourt,SME,Savings,70,93.4,Below 100k,Web,Active
+FT-C01087,Grace Adeyemi,31,Male,Abuja,Premium,Savings,85,55.7,1m+,Mobile App,Active
+FT-C01088,Daniel Nwosu,57,Female,Kano,Premium,Current,90,69.6,250k-499k,Mobile App,Active
+FT-C01089,Fatima Usman,57,Female,Lagos,Everyday,Savings,59,74.2,100k-249k,Web,Dormant
+FT-C01090,Samuel Garba,56,Male,Kaduna,Premium,Current,19,64.7,250k-499k,Mobile App,Active
+FT-C01091,David Williams,23,Male,Enugu,SME,Savings,28,92.4,500k-999k,Mobile App,Active
+FT-C01092,Samuel Adebayo,23,Female,Lagos,Student,Current,72,46,Below 100k,Mobile App,Active
+FT-C01093,Zainab Bello,20,Male,Kano,Everyday,Savings,14,99.2,500k-999k,Web,Active
+FT-C01094,Amina Williams,24,Male,Port Harcourt,Everyday,Savings,24,80.1,500k-999k,Mobile App,Active
+FT-C01095,Emeka Adeyemi,25,Male,Lagos,Everyday,Savings,44,63.6,250k-499k,Mobile App,Active
+FT-C01096,Mariam Usman,59,Female,Kaduna,Everyday,Savings,56,63.8,500k-999k,Mobile App,Active
+FT-C01097,Ibrahim Nwosu,32,Male,Lagos,Everyday,Savings,90,28.1,Below 100k,USSD,Active
+FT-C01098,Samuel Usman,64,Female,Lagos,Everyday,Current,95,52.7,250k-499k,Mobile App,Active
+FT-C01099,Yusuf Bello,46,Prefer not to say,Port Harcourt,Everyday,Current,51,61.6,100k-249k,Web,Active
+FT-C01100,Emeka Ojo,50,Male,Port Harcourt,Everyday,Current,32,71.2,100k-249k,Mobile App,Active
+FT-C01101,Daniel Bello,47,Female,Port Harcourt,Premium,Premium,50,90.7,100k-249k,Web,Active
+FT-C01102,Amina Eze,56,Male,Kano,Everyday,Savings,41,100,100k-249k,Mobile App,Active
+FT-C01103,Ibrahim Okafor,44,Female,Ibadan,Everyday,Savings,66,72.9,Below 100k,Web,Active
+FT-C01104,Zainab Usman,53,Prefer not to say,Ibadan,Everyday,Savings,25,71.7,100k-249k,Mobile App,Active
+FT-C01105,Grace Mohammed,46,Prefer not to say,Lagos,Everyday,Current,61,59.2,100k-249k,Mobile App,Active
+FT-C01106,Blessing Ojo,55,Male,Abuja,Premium,Savings,66,37.1,250k-499k,Web,Active
+FT-C01107,Daniel Williams,50,Female,Lagos,Everyday,Current,42,57.1,Below 100k,Web,Active
+FT-C01108,Ada Garba,54,Male,Lagos,Student,Savings,65,64.3,250k-499k,Web,Active
+FT-C01109,Mariam Usman,44,Female,Port Harcourt,SME,Premium,36,85.6,100k-249k,USSD,Active
+FT-C01110,Grace Ojo,50,Female,Lagos,Student,Premium,76,77.4,Below 100k,Mobile App,Active
+FT-C01111,Emeka Garba,21,Male,Lagos,Premium,Savings,9,72,100k-249k,USSD,Active
+FT-C01112,Tunde Adeyemi,39,Female,Lagos,SME,Savings,36,57.5,100k-249k,Mobile App,Active
+FT-C01113,Yusuf Ibrahim,19,Female,Kaduna,Student,Current,92,32.3,250k-499k,Web,Active
+FT-C01114,Ada Okafor,27,Prefer not to say,Kaduna,Everyday,Savings,38,33.4,100k-249k,Mobile App,Active
+FT-C01115,Amina Mohammed,22,Female,Ibadan,Everyday,Savings,33,38.1,1m+,Mobile App,Active
+FT-C01116,Mariam Adeyemi,27,Female,Enugu,SME,Current,42,62.7,1m+,Mobile App,Active
+FT-C01117,Grace Okafor,50,Male,Kano,Everyday,Savings,61,85.9,100k-249k,Mobile App,Active
+FT-C01118,Samuel Nwosu,55,Female,Port Harcourt,Everyday,Current,46,85.4,500k-999k,Mobile App,Active
+FT-C01119,Chiamaka Usman,30,Male,Lagos,Student,Current,86,82.3,Below 100k,Mobile App,Active
+FT-C01120,Daniel Adebayo,48,Prefer not to say,Kano,Student,Savings,89,58.7,250k-499k,Mobile App,Active
+FT-C01121,Grace Garba,64,Male,Kano,Everyday,Savings,61,88.6,500k-999k,Mobile App,Active
+FT-C01122,Grace Williams,53,Male,Ibadan,Premium,Savings,18,51.2,100k-249k,Mobile App,Active
+FT-C01123,Tunde Garba,62,Female,Kano,Everyday,Current,70,83.4,Below 100k,Mobile App,Active
+FT-C01124,Samuel Ibrahim,41,Female,Port Harcourt,Student,Savings,82,37.9,Below 100k,Mobile App,Active
+FT-C01125,Grace Adebayo,32,Male,Kano,Everyday,Premium,80,46.8,100k-249k,Mobile App,Active
+FT-C01126,Ibrahim Eze,46,Male,Kaduna,Everyday,Savings,15,97.7,250k-499k,Web,Dormant
+FT-C01127,Fatima Mohammed,25,Male,Abuja,SME,Savings,48,64.3,100k-249k,USSD,Active
+FT-C01128,Yusuf Ibrahim,22,Female,Kano,Premium,Savings,72,55.7,100k-249k,Mobile App,Active
+FT-C01129,Yusuf Ibrahim,46,Female,Abuja,Student,Savings,13,87.8,250k-499k,Web,Active
+FT-C01130,Zainab Ibrahim,64,Female,Ibadan,Everyday,Savings,43,89.9,500k-999k,Web,Active
+FT-C01131,Amina Eze,21,Male,Kano,Everyday,Savings,60,60.2,Below 100k,Mobile App,Active
+FT-C01132,Emeka Williams,29,Female,Lagos,Premium,Savings,57,73,500k-999k,Web,Active
+FT-C01133,Tunde Bello,62,Male,Ibadan,Everyday,Savings,71,70.5,250k-499k,Mobile App,Active
+FT-C01134,Mariam Ojo,19,Male,Lagos,Everyday,Savings,17,17.1,500k-999k,Mobile App,Active
+FT-C01135,Amina Williams,44,Female,Ibadan,Everyday,Current,50,42.9,500k-999k,Mobile App,Active
+FT-C01136,Yusuf Ojo,48,Male,Abuja,Student,Savings,32,85,250k-499k,Mobile App,Active
+FT-C01137,Chiamaka Ibrahim,53,Female,Kano,SME,Savings,22,53,100k-249k,Web,Active
+FT-C01138,Blessing Eze,53,Male,Lagos,SME,Current,55,77.5,250k-499k,Mobile App,Active
+FT-C01139,Yusuf Garba,43,Male,Ibadan,Everyday,Savings,57,72.7,1m+,Mobile App,Active
+FT-C01140,Emeka Williams,60,Male,Lagos,Everyday,Current,13,89.9,250k-499k,Mobile App,Active
+FT-C01141,David Ojo,44,Male,Benin City,Everyday,Savings,47,43.5,Below 100k,Web,Dormant
+FT-C01142,Chiamaka Ojo,22,Female,Enugu,SME,Savings,87,75.1,Below 100k,Web,Active
+FT-C01143,Zainab Okafor,37,Female,Kaduna,Everyday,Premium,62,66.8,1m+,Web,Active
+FT-C01144,Amina Garba,28,Male,Benin City,SME,Savings,54,53.8,Below 100k,Mobile App,Active
+FT-C01145,Zainab Okafor,27,Female,Kano,Everyday,Current,29,53.7,Below 100k,Mobile App,Active
+FT-C01146,Daniel Adeyemi,57,Female,Lagos,SME,Savings,22,72.1,100k-249k,Mobile App,Active
+FT-C01147,Fatima Usman,55,Female,Lagos,Student,Current,65,79.3,1m+,Mobile App,Active
+FT-C01148,Emeka Ibrahim,23,Male,Abuja,Student,Premium,29,69.1,100k-249k,Mobile App,Active
+FT-C01149,Daniel Bello,25,Female,Kano,Everyday,Savings,48,69.7,100k-249k,Mobile App,Active
+FT-C01150,Zainab Eze,40,Male,Enugu,Everyday,Current,5,59,250k-499k,Mobile App,Active
+FT-C01151,David Adebayo,64,Prefer not to say,Lagos,Everyday,Savings,35,60.2,Below 100k,USSD,Active
+FT-C01152,Yusuf Garba,43,Female,Enugu,Everyday,Current,74,53.7,500k-999k,Web,Active
+FT-C01153,Blessing Bello,63,Female,Ibadan,Everyday,Savings,83,58.7,250k-499k,Mobile App,Active
+FT-C01154,David Nwosu,60,Female,Ibadan,Premium,Premium,71,78.7,250k-499k,Mobile App,Active
+FT-C01155,Chiamaka Nwosu,29,Male,Lagos,Everyday,Savings,46,80.7,500k-999k,Mobile App,Active
+FT-C01156,Ada Adebayo,43,Female,Lagos,Premium,Savings,35,45,1m+,Web,Active
+FT-C01157,Amina Ibrahim,30,Female,Port Harcourt,Premium,Premium,45,51.9,100k-249k,Web,Dormant
+FT-C01158,Ibrahim Mohammed,57,Female,Ibadan,Everyday,Current,13,55.2,Below 100k,USSD,Active
+FT-C01159,Ada Garba,35,Male,Lagos,SME,Savings,10,66.8,500k-999k,Mobile App,Active
+FT-C01160,Daniel Williams,42,Female,Port Harcourt,Everyday,Savings,66,37.7,100k-249k,Web,Active
+FT-C01161,Tunde Nwosu,50,Male,Benin City,Everyday,Savings,70,52.2,1m+,Mobile App,Active
+FT-C01162,Grace Ojo,64,Male,Benin City,Premium,Savings,72,43.1,1m+,USSD,Active
+FT-C01163,Blessing Mohammed,57,Female,Enugu,Student,Savings,25,75.2,Below 100k,Web,Active
+FT-C01164,Blessing Garba,60,Male,Abuja,Everyday,Current,44,67.5,1m+,Web,Active
+FT-C01165,Blessing Ojo,29,Female,Lagos,Everyday,Savings,60,59.7,100k-249k,Mobile App,Active
+FT-C01166,Grace Nwosu,61,Male,Kano,Premium,Current,47,48.9,250k-499k,Web,Active
+FT-C01167,Ada Adebayo,53,Male,Abuja,Everyday,Current,40,60,Below 100k,Mobile App,Active
+FT-C01168,Zainab Ibrahim,65,Male,Lagos,Premium,Savings,7,57.8,500k-999k,Mobile App,Dormant
+FT-C01169,Zainab Adebayo,21,Female,Lagos,SME,Savings,46,97.4,250k-499k,Mobile App,Active
+FT-C01170,David Ibrahim,22,Female,Abuja,SME,Savings,23,85.9,250k-499k,Mobile App,Active
+FT-C01171,Amina Bello,54,Female,Lagos,Everyday,Savings,83,55.6,500k-999k,Mobile App,Active
+FT-C01172,Amina Williams,25,Female,Lagos,Everyday,Current,46,71,250k-499k,Mobile App,Active
+FT-C01173,Ada Okafor,59,Female,Lagos,Everyday,Savings,86,85,100k-249k,Mobile App,Active
+FT-C01174,Samuel Ibrahim,45,Female,Lagos,Everyday,Current,13,55.6,500k-999k,Mobile App,Active
+FT-C01175,Yusuf Okafor,48,Female,Ibadan,Everyday,Savings,21,42.5,500k-999k,Mobile App,Active
+FT-C01176,Yusuf Adeyemi,26,Female,Port Harcourt,Everyday,Savings,1,35.7,1m+,Mobile App,Active
+FT-C01177,Samuel Okafor,46,Male,Ibadan,SME,Savings,19,90.9,1m+,Mobile App,Active
+FT-C01178,Yusuf Eze,31,Female,Lagos,SME,Savings,60,64.6,100k-249k,Mobile App,Active
+FT-C01179,Fatima Bello,57,Female,Lagos,Everyday,Savings,33,73.2,100k-249k,Mobile App,Active
+FT-C01180,Blessing Adebayo,58,Female,Ibadan,Everyday,Savings,4,57.7,100k-249k,Web,Active
+FT-C01181,Blessing Eze,39,Female,Port Harcourt,Everyday,Premium,3,45.2,250k-499k,Mobile App,Active
+FT-C01182,Tunde Eze,28,Male,Port Harcourt,Everyday,Current,91,48.5,100k-249k,Web,Active
+FT-C01183,Emeka Adeyemi,40,Female,Abuja,Premium,Savings,52,43.9,500k-999k,Mobile App,Active
+FT-C01184,Daniel Garba,18,Male,Enugu,Premium,Savings,28,83.3,Below 100k,USSD,Active
+FT-C01185,Emeka Usman,63,Prefer not to say,Lagos,SME,Savings,70,94.9,Below 100k,Mobile App,Active
+FT-C01186,Samuel Garba,54,Male,Abuja,Student,Savings,70,68.7,100k-249k,Mobile App,Active
+FT-C01187,Zainab Nwosu,38,Male,Ibadan,Premium,Savings,55,40.7,Below 100k,Mobile App,Active
+FT-C01188,Daniel Ibrahim,43,Male,Port Harcourt,Premium,Savings,57,76.9,250k-499k,Mobile App,Active
+FT-C01189,Emeka Adeyemi,63,Prefer not to say,Abuja,Everyday,Savings,87,90.8,Below 100k,Web,Active
+FT-C01190,Ibrahim Nwosu,53,Male,Abuja,Premium,Savings,16,85.5,Below 100k,Mobile App,Active
+FT-C01191,Yusuf Okafor,40,Male,Benin City,Premium,Savings,24,67.5,Below 100k,Mobile App,Dormant
+FT-C01192,Daniel Williams,18,Male,Lagos,Everyday,Savings,69,63.8,500k-999k,USSD,Active
+FT-C01193,Amina Garba,57,Male,Lagos,Everyday,Current,41,67.3,500k-999k,Mobile App,Dormant
+FT-C01194,Amina Adeyemi,32,Male,Lagos,Everyday,Savings,77,90.1,Below 100k,Mobile App,Active
+FT-C01195,Ibrahim Williams,38,Female,Benin City,SME,Savings,47,81.7,500k-999k,Mobile App,Active
+FT-C01196,Ibrahim Eze,64,Female,Lagos,Everyday,Savings,76,61.1,100k-249k,Mobile App,Active
+FT-C01197,Ibrahim Ibrahim,26,Female,Kaduna,Everyday,Premium,69,60.6,100k-249k,USSD,Active
+FT-C01198,David Mohammed,26,Female,Port Harcourt,Everyday,Premium,31,59.3,250k-499k,Web,Active
+FT-C01199,Ada Bello,27,Female,Kaduna,Student,Current,92,48.8,Below 100k,Web,Active
+FT-C01200,Grace Williams,43,Female,Kaduna,Everyday,Savings,92,92.3,500k-999k,USSD,Active
+FT-C01201,Fatima Adebayo,58,Male,Abuja,SME,Savings,30,53.8,Below 100k,Mobile App,Active
+FT-C01202,Yusuf Ibrahim,52,Female,Lagos,SME,Current,18,76.8,1m+,Mobile App,Active
+FT-C01203,Amina Mohammed,42,Male,Lagos,Premium,Savings,44,56.1,Below 100k,Mobile App,Active
+FT-C01204,Emeka Eze,43,Female,Lagos,Student,Savings,27,59.4,250k-499k,Web,Active
+FT-C01205,Yusuf Bello,28,Female,Kano,Everyday,Premium,26,66,500k-999k,USSD,Active
+FT-C01206,Ibrahim Adebayo,55,Male,Lagos,Everyday,Savings,60,77.8,Below 100k,Mobile App,Active
+FT-C01207,Grace Eze,19,Male,Abuja,Student,Savings,18,63.3,250k-499k,Mobile App,Active
+FT-C01208,Yusuf Usman,24,Female,Abuja,Everyday,Savings,89,47.5,100k-249k,USSD,Active
+FT-C01209,Zainab Bello,35,Male,Enugu,Everyday,Savings,56,68.3,250k-499k,Mobile App,Dormant
+FT-C01210,Fatima Usman,44,Male,Lagos,Premium,Savings,31,54.2,100k-249k,USSD,Active
+FT-C01211,Samuel Ojo,51,Female,Lagos,Everyday,Current,59,95.8,Below 100k,Mobile App,Active
+FT-C01212,Ada Ibrahim,44,Female,Lagos,SME,Current,2,63.3,250k-499k,Mobile App,Active
+FT-C01213,Zainab Nwosu,34,Prefer not to say,Enugu,Everyday,Savings,39,56,100k-249k,Mobile App,Active
+FT-C01214,Chiamaka Okafor,60,Male,Ibadan,Student,Premium,61,100,250k-499k,Mobile App,Active
+FT-C01215,David Okafor,61,Male,Lagos,Premium,Savings,63,81.3,100k-249k,Mobile App,Dormant
+FT-C01216,Daniel Usman,41,Male,Lagos,Student,Savings,96,51.9,100k-249k,Mobile App,Active
+FT-C01217,Tunde Ibrahim,42,Female,Lagos,Everyday,Current,18,53.8,250k-499k,USSD,Dormant
+FT-C01218,David Usman,24,Female,Lagos,Premium,Current,17,76.5,250k-499k,Web,Active
+FT-C01219,Daniel Bello,23,Female,Kaduna,SME,Current,39,68.8,100k-249k,Web,Active
+FT-C01220,Ada Bello,41,Male,Kano,Premium,Premium,71,84,100k-249k,Mobile App,Active
+FT-C01221,Tunde Bello,50,Male,Abuja,Everyday,Current,54,56.1,100k-249k,USSD,Active
+FT-C01222,Zainab Mohammed,46,Male,Enugu,Premium,Premium,94,80.6,Below 100k,Mobile App,Active
+FT-C01223,Daniel Mohammed,60,Female,Lagos,Student,Savings,76,27.7,100k-249k,Mobile App,Restricted
+FT-C01224,Grace Adeyemi,39,Female,Kano,Everyday,Current,35,65.2,100k-249k,Mobile App,Active
+FT-C01225,Grace Mohammed,43,Male,Benin City,SME,Premium,11,56.9,250k-499k,Mobile App,Dormant
+FT-C01226,Grace Garba,45,Male,Abuja,Everyday,Current,61,59.8,250k-499k,USSD,Active
+FT-C01227,Yusuf Eze,38,Male,Kano,Premium,Savings,44,66.1,100k-249k,Mobile App,Active
+FT-C01228,Fatima Garba,24,Female,Lagos,Student,Savings,68,88.5,100k-249k,Mobile App,Active
+FT-C01229,Tunde Ojo,34,Male,Lagos,Student,Savings,25,47.2,100k-249k,Web,Active
+FT-C01230,Amina Garba,37,Female,Lagos,SME,Savings,48,28.6,250k-499k,Mobile App,Active
+FT-C01231,David Bello,58,Male,Abuja,SME,Premium,32,49.3,1m+,Web,Dormant
+FT-C01232,Daniel Nwosu,37,Female,Kano,Everyday,Savings,84,86.4,250k-499k,Mobile App,Active
+FT-C01233,Grace Adebayo,39,Male,Kaduna,Everyday,Savings,95,38.4,500k-999k,Web,Active
+FT-C01234,Daniel Ibrahim,45,Female,Ibadan,Everyday,Premium,4,57.7,500k-999k,Mobile App,Active
+FT-C01235,Daniel Garba,57,Male,Enugu,Student,Savings,38,83.1,100k-249k,USSD,Active
+FT-C01236,Ada Usman,24,Female,Benin City,SME,Savings,63,66.9,Below 100k,Mobile App,Active
+FT-C01237,Zainab Adeyemi,18,Female,Lagos,Everyday,Savings,47,88.3,250k-499k,Web,Active
+FT-C01238,Zainab Adeyemi,49,Female,Abuja,Everyday,Current,1,31.4,100k-249k,Mobile App,Active
+FT-C01239,Blessing Eze,30,Female,Lagos,Everyday,Savings,3,62.2,250k-499k,Mobile App,Active
+FT-C01240,Ada Eze,47,Female,Ibadan,Student,Premium,86,92.1,500k-999k,Mobile App,Active
+FT-C01241,Ada Williams,40,Male,Kaduna,Everyday,Savings,62,47.7,500k-999k,Mobile App,Active
+FT-C01242,Amina Garba,36,Female,Lagos,Everyday,Savings,64,86.6,100k-249k,Mobile App,Active
+FT-C01243,Daniel Ojo,49,Male,Kano,Premium,Savings,17,63.8,250k-499k,Web,Active
+FT-C01244,Samuel Mohammed,47,Male,Ibadan,Student,Current,78,75.8,250k-499k,Mobile App,Active
+FT-C01245,Daniel Ibrahim,46,Male,Port Harcourt,Premium,Savings,62,90.8,500k-999k,Web,Active
+FT-C01246,Zainab Mohammed,62,Female,Abuja,Premium,Savings,35,75.7,500k-999k,Mobile App,Dormant
+FT-C01247,Yusuf Garba,46,Female,Abuja,Everyday,Savings,13,57.4,1m+,Mobile App,Active
+FT-C01248,Fatima Nwosu,47,Male,Lagos,Premium,Current,35,78.1,Below 100k,Web,Active
+FT-C01249,Tunde Adebayo,33,Prefer not to say,Lagos,Student,Savings,43,56.1,100k-249k,Web,Active
+FT-C01250,Grace Eze,57,Female,Lagos,SME,Current,2,72.9,100k-249k,Mobile App,Active
+FT-C01251,Ibrahim Mohammed,36,Female,Port Harcourt,Everyday,Current,56,45.5,Below 100k,Mobile App,Active
+FT-C01252,Grace Mohammed,35,Female,Lagos,Everyday,Savings,77,68.5,1m+,Mobile App,Active
+FT-C01253,Amina Mohammed,18,Prefer not to say,Enugu,Everyday,Savings,51,89.4,1m+,Mobile App,Active
+FT-C01254,Amina Eze,31,Female,Port Harcourt,Everyday,Savings,54,62.6,100k-249k,Mobile App,Dormant
+FT-C01255,Fatima Okafor,64,Female,Ibadan,Student,Savings,16,87.7,Below 100k,Web,Active
+FT-C01256,Yusuf Okafor,19,Male,Abuja,Everyday,Savings,18,100,100k-249k,Mobile App,Active
+FT-C01257,Yusuf Mohammed,45,Female,Port Harcourt,Everyday,Savings,7,67.5,500k-999k,Mobile App,Active
+FT-C01258,Mariam Williams,47,Female,Kaduna,Everyday,Savings,45,79.1,100k-249k,USSD,Active
+FT-C01259,Grace Eze,55,Male,Lagos,Everyday,Savings,36,76.6,Below 100k,Web,Active
+FT-C01260,Grace Bello,21,Male,Lagos,Everyday,Savings,41,72.1,Below 100k,Mobile App,Active
+FT-C01261,David Eze,18,Female,Kano,Everyday,Savings,94,82.2,100k-249k,Mobile App,Active
+FT-C01262,Daniel Garba,25,Female,Lagos,Everyday,Current,42,63.5,1m+,Mobile App,Active
+FT-C01263,Zainab Nwosu,46,Female,Lagos,Student,Premium,7,56.1,100k-249k,Web,Active
+FT-C01264,Fatima Bello,56,Female,Abuja,Premium,Premium,15,40.5,100k-249k,Mobile App,Active
+FT-C01265,Amina Bello,20,Male,Lagos,Everyday,Savings,60,61.8,Below 100k,Mobile App,Active
+FT-C01266,David Eze,49,Female,Port Harcourt,SME,Savings,40,84.2,250k-499k,Mobile App,Restricted
+FT-C01267,Fatima Bello,27,Female,Lagos,Premium,Savings,83,51.1,250k-499k,Mobile App,Active
+FT-C01268,Ibrahim Okafor,27,Female,Enugu,Student,Savings,37,72.4,100k-249k,Mobile App,Active
+FT-C01269,Chiamaka Williams,36,Male,Kano,Everyday,Savings,66,65.8,100k-249k,Web,Active
+FT-C01270,Ibrahim Adeyemi,63,Male,Ibadan,Everyday,Current,55,56.8,500k-999k,Mobile App,Active
+FT-C01271,Blessing Eze,51,Male,Ibadan,Everyday,Savings,77,34.6,Below 100k,Mobile App,Active
+FT-C01272,Mariam Eze,50,Female,Enugu,Everyday,Savings,95,92.5,250k-499k,Mobile App,Active
+FT-C01273,Mariam Adeyemi,40,Male,Lagos,Everyday,Premium,80,77.3,100k-249k,Mobile App,Active
+FT-C01274,Mariam Ojo,45,Male,Enugu,SME,Savings,56,100,100k-249k,Mobile App,Active
+FT-C01275,Grace Nwosu,49,Female,Kano,Everyday,Savings,44,87.4,250k-499k,Mobile App,Active
+FT-C01276,Ibrahim Okafor,24,Female,Kano,Everyday,Savings,57,92.1,500k-999k,Web,Active
+FT-C01277,Chiamaka Usman,46,Female,Port Harcourt,Premium,Savings,6,36.5,250k-499k,USSD,Active
+FT-C01278,Zainab Williams,25,Female,Lagos,Everyday,Current,92,36.2,Below 100k,USSD,Active
+FT-C01279,Yusuf Mohammed,18,Female,Abuja,Premium,Savings,32,68.8,250k-499k,Mobile App,Active
+FT-C01280,Blessing Okafor,20,Female,Benin City,Premium,Savings,74,47.3,250k-499k,Web,Active
+FT-C01281,David Usman,41,Female,Lagos,Student,Current,18,55.7,250k-499k,USSD,Active
+FT-C01282,Amina Mohammed,40,Male,Kano,SME,Current,68,100,250k-499k,Mobile App,Active
+FT-C01283,Fatima Adeyemi,25,Female,Lagos,Everyday,Premium,73,89.4,Below 100k,Mobile App,Active
+FT-C01284,Zainab Adebayo,64,Male,Lagos,Premium,Current,7,51.2,250k-499k,Mobile App,Active
+FT-C01285,Emeka Mohammed,54,Male,Lagos,SME,Savings,8,25.4,250k-499k,Mobile App,Dormant
+FT-C01286,David Bello,20,Male,Lagos,Student,Savings,64,49.6,100k-249k,Web,Active
+FT-C01287,Daniel Adeyemi,50,Male,Port Harcourt,Premium,Savings,7,58,250k-499k,Mobile App,Active
+FT-C01288,Grace Williams,45,Female,Lagos,SME,Savings,41,62.2,100k-249k,Mobile App,Active
+FT-C01289,Grace Ojo,64,Male,Kaduna,Everyday,Current,40,45,100k-249k,Mobile App,Active
+FT-C01290,Chiamaka Eze,25,Female,Port Harcourt,SME,Current,3,88.3,1m+,Mobile App,Active
+FT-C01291,Emeka Mohammed,51,Female,Lagos,Everyday,Savings,17,55.2,100k-249k,Mobile App,Active
+FT-C01292,Daniel Williams,52,Male,Ibadan,Premium,Savings,66,79.7,100k-249k,Mobile App,Active
+FT-C01293,Emeka Ibrahim,49,Female,Enugu,SME,Savings,79,69,250k-499k,Mobile App,Active
+FT-C01294,Ada Okafor,41,Female,Kano,Everyday,Premium,93,84.9,1m+,Web,Active
+FT-C01295,Daniel Ibrahim,31,Male,Lagos,Premium,Savings,52,63.7,1m+,Web,Active
+FT-C01296,Fatima Adeyemi,49,Male,Enugu,Everyday,Current,22,51.4,250k-499k,Web,Active
+FT-C01297,Grace Adeyemi,63,Male,Benin City,SME,Current,4,57.2,Below 100k,Web,Dormant
+FT-C01298,Ada Williams,60,Female,Lagos,Student,Premium,6,57.5,500k-999k,Web,Active
+FT-C01299,Daniel Bello,33,Male,Lagos,Student,Current,38,100,250k-499k,Web,Active
+FT-C01300,David Ibrahim,21,Female,Port Harcourt,Premium,Current,26,69.4,100k-249k,Web,Active
+FT-C01301,Blessing Eze,54,Male,Lagos,Student,Savings,11,68.1,500k-999k,Web,Active
+FT-C01302,David Williams,38,Male,Benin City,Everyday,Savings,90,83.9,100k-249k,Mobile App,Active
+FT-C01303,Emeka Ojo,31,Male,Abuja,Everyday,Savings,17,68,Below 100k,Mobile App,Active
+FT-C01304,Chiamaka Ojo,48,Male,Enugu,Student,Savings,88,88.2,500k-999k,Web,Active
+FT-C01305,Samuel Ibrahim,65,Female,Port Harcourt,Everyday,Premium,92,61.3,250k-499k,Mobile App,Active
+FT-C01306,Fatima Ibrahim,35,Male,Lagos,Everyday,Savings,31,59.5,100k-249k,Mobile App,Active
+FT-C01307,Daniel Nwosu,24,Male,Lagos,Everyday,Premium,77,50.4,100k-249k,Mobile App,Active
+FT-C01308,Grace Usman,27,Female,Port Harcourt,Everyday,Savings,35,100,250k-499k,Mobile App,Active
+FT-C01309,Daniel Okafor,24,Male,Kano,SME,Savings,16,66.7,100k-249k,USSD,Active
+FT-C01310,Emeka Okafor,50,Female,Kano,Premium,Premium,79,46.9,100k-249k,Mobile App,Active
+FT-C01311,Amina Bello,40,Male,Lagos,Student,Savings,18,71.5,250k-499k,Mobile App,Active
+FT-C01312,Tunde Garba,38,Male,Lagos,Everyday,Savings,62,56.3,500k-999k,Mobile App,Active
+FT-C01313,David Ojo,36,Male,Lagos,Everyday,Savings,27,61,250k-499k,Web,Active
+FT-C01314,Zainab Adeyemi,65,Female,Ibadan,Everyday,Current,35,73.6,500k-999k,Mobile App,Active
+FT-C01315,Ada Garba,36,Male,Lagos,Student,Savings,45,95.4,500k-999k,Mobile App,Active
+FT-C01316,Amina Okafor,53,Male,Abuja,Premium,Savings,35,69.8,250k-499k,Web,Active
+FT-C01317,Emeka Nwosu,46,Male,Ibadan,SME,Savings,28,55.2,100k-249k,Mobile App,Active
+FT-C01318,Zainab Nwosu,35,Female,Kaduna,Student,Current,9,58.9,500k-999k,Mobile App,Active
+FT-C01319,Daniel Usman,19,Female,Lagos,Premium,Current,76,79.8,100k-249k,Mobile App,Active
+FT-C01320,David Adeyemi,18,Male,Lagos,Premium,Savings,15,32.7,Below 100k,Web,Active
+FT-C01321,Chiamaka Adeyemi,64,Female,Ibadan,SME,Savings,21,49.2,100k-249k,Mobile App,Active
+FT-C01322,Grace Williams,22,Male,Ibadan,Student,Current,52,71.8,500k-999k,Mobile App,Active
+FT-C01323,Ada Mohammed,37,Male,Lagos,Everyday,Savings,35,37.3,Below 100k,Mobile App,Active
+FT-C01324,Chiamaka Garba,28,Male,Enugu,Premium,Savings,51,62.4,Below 100k,Mobile App,Dormant
+FT-C01325,Mariam Bello,59,Male,Benin City,Student,Savings,83,59.4,250k-499k,Web,Active
+FT-C01326,Ada Adeyemi,19,Male,Lagos,Student,Premium,55,83.8,500k-999k,Mobile App,Active
+FT-C01327,Daniel Ojo,20,Female,Lagos,Everyday,Savings,87,63.5,250k-499k,Mobile App,Active
+FT-C01328,Ada Eze,40,Female,Port Harcourt,SME,Savings,77,89.4,100k-249k,Mobile App,Active
+FT-C01329,Samuel Ojo,29,Female,Kano,SME,Current,44,69.4,Below 100k,Web,Active
+FT-C01330,Emeka Mohammed,37,Female,Lagos,Everyday,Current,65,100,250k-499k,Web,Active
+FT-C01331,David Ojo,22,Male,Ibadan,SME,Savings,93,43,Below 100k,Mobile App,Dormant
+FT-C01332,Tunde Nwosu,54,Male,Ibadan,Everyday,Savings,88,97.1,250k-499k,Web,Active
+FT-C01333,Ibrahim Usman,55,Male,Lagos,Everyday,Current,80,60.6,100k-249k,Mobile App,Active
+FT-C01334,Ada Nwosu,47,Male,Ibadan,Everyday,Premium,25,94.5,500k-999k,USSD,Active
+FT-C01335,Samuel Eze,26,Prefer not to say,Kaduna,Everyday,Current,87,89.3,250k-499k,Mobile App,Active
+FT-C01336,Amina Eze,51,Male,Lagos,SME,Savings,92,16.7,100k-249k,Mobile App,Active
+FT-C01337,Mariam Eze,61,Male,Lagos,Everyday,Savings,47,76.6,500k-999k,Mobile App,Active
+FT-C01338,Tunde Adeyemi,52,Male,Abuja,Everyday,Premium,80,86,100k-249k,Mobile App,Active
+FT-C01339,Yusuf Mohammed,39,Female,Enugu,Everyday,Current,56,91.9,100k-249k,Web,Active
+FT-C01340,Tunde Adeyemi,61,Female,Kaduna,Everyday,Savings,38,46.8,500k-999k,Mobile App,Active
+FT-C01341,Ada Nwosu,41,Female,Abuja,Everyday,Savings,11,78.6,100k-249k,Mobile App,Active
+FT-C01342,Mariam Adebayo,34,Male,Kano,Student,Current,67,71.5,100k-249k,Mobile App,Active
+FT-C01343,Grace Ojo,27,Male,Port Harcourt,Everyday,Savings,15,75.8,100k-249k,Mobile App,Active
+FT-C01344,Zainab Garba,47,Female,Port Harcourt,SME,Savings,1,86,Below 100k,Mobile App,Active
+FT-C01345,Samuel Bello,63,Female,Lagos,Student,Savings,7,88.8,Below 100k,Mobile App,Active
+FT-C01346,David Ojo,40,Male,Lagos,Everyday,Savings,1,56.2,250k-499k,Web,Active
+FT-C01347,Samuel Ibrahim,49,Female,Lagos,SME,Savings,49,72.8,250k-499k,Web,Active
+FT-C01348,Chiamaka Williams,34,Female,Port Harcourt,Everyday,Current,96,68.7,100k-249k,Mobile App,Active
+FT-C01349,Ada Adebayo,34,Male,Lagos,Everyday,Savings,73,63.7,100k-249k,Mobile App,Active
+FT-C01350,Fatima Okafor,31,Female,Enugu,Everyday,Savings,29,65.4,1m+,USSD,Active
+FT-C01351,Amina Eze,26,Female,Lagos,Everyday,Savings,26,71.5,1m+,Mobile App,Active
+FT-C01352,Mariam Adebayo,57,Male,Lagos,Premium,Savings,87,57.2,250k-499k,Mobile App,Active
+FT-C01353,Blessing Nwosu,19,Male,Port Harcourt,Student,Savings,45,83.9,500k-999k,Web,Active
+FT-C01354,Samuel Bello,62,Male,Kano,Everyday,Savings,93,90.8,500k-999k,Mobile App,Active
+FT-C01355,Emeka Bello,42,Female,Lagos,Student,Current,71,53.2,100k-249k,Mobile App,Active
+FT-C01356,Ibrahim Nwosu,56,Female,Lagos,Everyday,Savings,12,91.7,Below 100k,Mobile App,Active
+FT-C01357,Fatima Bello,26,Female,Kaduna,Student,Savings,95,53.3,Below 100k,Mobile App,Active
+FT-C01358,Ibrahim Adebayo,39,Male,Lagos,Everyday,Savings,32,84.2,500k-999k,USSD,Active
+FT-C01359,Ibrahim Usman,60,Male,Lagos,Everyday,Savings,20,91.7,500k-999k,Mobile App,Active
+FT-C01360,Ibrahim Ibrahim,63,Female,Benin City,Everyday,Premium,51,66.3,250k-499k,USSD,Dormant
+FT-C01361,Yusuf Eze,21,Male,Lagos,Everyday,Savings,81,53.4,Below 100k,Mobile App,Active
+FT-C01362,Amina Williams,43,Female,Abuja,Premium,Premium,36,57.4,250k-499k,Mobile App,Active
+FT-C01363,David Garba,46,Female,Abuja,SME,Savings,67,74.5,500k-999k,Mobile App,Active
+FT-C01364,David Okafor,62,Female,Lagos,Everyday,Current,1,100,500k-999k,Mobile App,Active
+FT-C01365,Mariam Mohammed,51,Female,Lagos,Student,Savings,27,37.5,Below 100k,Mobile App,Dormant
+FT-C01366,Chiamaka Ibrahim,40,Male,Lagos,Premium,Current,40,69.8,250k-499k,Mobile App,Active
+FT-C01367,Emeka Ibrahim,54,Male,Lagos,SME,Savings,84,66.4,Below 100k,USSD,Active
+FT-C01368,Emeka Ibrahim,28,Female,Lagos,Everyday,Savings,14,59.8,250k-499k,USSD,Active
+FT-C01369,David Mohammed,23,Male,Kano,Everyday,Current,69,66.5,250k-499k,Mobile App,Active
+FT-C01370,Amina Nwosu,35,Female,Abuja,SME,Current,87,58.2,Below 100k,Mobile App,Active
+FT-C01371,Daniel Williams,38,Male,Abuja,Premium,Savings,79,90.4,500k-999k,Web,Active
+FT-C01372,Zainab Williams,59,Male,Enugu,Everyday,Savings,6,92.2,Below 100k,Mobile App,Active
+FT-C01373,Chiamaka Okafor,53,Female,Ibadan,Everyday,Savings,33,69.6,500k-999k,Mobile App,Active
+FT-C01374,Emeka Nwosu,58,Male,Lagos,Everyday,Current,55,65.5,100k-249k,USSD,Active
+FT-C01375,Blessing Ojo,55,Female,Kaduna,Premium,Savings,19,59.1,250k-499k,Mobile App,Active
+FT-C01376,Mariam Ojo,51,Female,Lagos,Student,Savings,77,69.6,1m+,Web,Active
+FT-C01377,Zainab Williams,34,Female,Lagos,Everyday,Current,29,100,100k-249k,Mobile App,Active
+FT-C01378,Zainab Adebayo,54,Male,Kano,Premium,Premium,61,66.1,250k-499k,Mobile App,Active
+FT-C01379,Amina Bello,42,Male,Port Harcourt,Premium,Current,70,52.9,250k-499k,Mobile App,Active
+FT-C01380,Yusuf Adeyemi,55,Female,Abuja,Premium,Current,79,60.8,Below 100k,Web,Active
+FT-C01381,Amina Eze,29,Male,Lagos,Student,Current,80,81.6,250k-499k,USSD,Active
+FT-C01382,Chiamaka Nwosu,40,Male,Port Harcourt,Student,Savings,24,55.1,500k-999k,Mobile App,Active
+FT-C01383,Mariam Adebayo,59,Male,Lagos,Everyday,Savings,23,67.4,1m+,Mobile App,Active
+FT-C01384,Grace Nwosu,39,Male,Enugu,SME,Current,10,76.5,500k-999k,Mobile App,Active
+FT-C01385,Blessing Usman,38,Male,Lagos,Everyday,Savings,54,56.4,250k-499k,USSD,Restricted
+FT-C01386,David Ojo,44,Female,Enugu,Everyday,Premium,41,36.2,250k-499k,USSD,Active
+FT-C01387,Grace Adeyemi,48,Female,Port Harcourt,Everyday,Savings,49,48.7,500k-999k,Web,Active
+FT-C01388,David Adeyemi,23,Prefer not to say,Benin City,Everyday,Savings,17,52.5,250k-499k,Mobile App,Active
+FT-C01389,Chiamaka Mohammed,44,Female,Kano,Everyday,Premium,56,63.9,Below 100k,USSD,Active
+FT-C01390,Daniel Eze,57,Prefer not to say,Ibadan,Everyday,Current,45,68.8,100k-249k,Mobile App,Active
+FT-C01391,Daniel Garba,51,Male,Lagos,Student,Savings,30,82.8,500k-999k,Mobile App,Active
+FT-C01392,Ibrahim Ojo,29,Female,Lagos,Everyday,Current,44,45.9,250k-499k,Mobile App,Active
+FT-C01393,Samuel Bello,62,Female,Lagos,Student,Current,74,80.2,250k-499k,Mobile App,Active
+FT-C01394,Tunde Mohammed,24,Female,Benin City,Everyday,Savings,55,61.3,100k-249k,Web,Active
+FT-C01395,Yusuf Williams,27,Male,Benin City,SME,Savings,19,35.9,1m+,Web,Active
+FT-C01396,Zainab Adebayo,62,Female,Abuja,Student,Current,29,68.2,100k-249k,Mobile App,Active
+FT-C01397,David Ibrahim,34,Female,Lagos,Everyday,Premium,2,91.7,250k-499k,Mobile App,Active
+FT-C01398,Ibrahim Williams,43,Female,Abuja,Student,Savings,36,83.9,Below 100k,Mobile App,Active
+FT-C01399,Ada Nwosu,38,Female,Ibadan,Premium,Premium,19,66.6,Below 100k,Mobile App,Active
+FT-C01400,Zainab Ojo,45,Male,Abuja,Student,Premium,7,88.3,500k-999k,Mobile App,Active
+FT-C01401,David Ojo,63,Female,Kano,Premium,Savings,26,71.5,1m+,Mobile App,Active
+FT-C01402,Daniel Ojo,19,Male,Kaduna,Premium,Current,79,85.7,100k-249k,Web,Active
+FT-C01403,Grace Nwosu,60,Female,Lagos,Student,Savings,38,38.1,Below 100k,USSD,Active
+FT-C01404,Zainab Adebayo,18,Female,Abuja,Everyday,Savings,3,45.5,100k-249k,USSD,Active
+FT-C01405,Yusuf Eze,53,Female,Abuja,Everyday,Current,80,81.1,Below 100k,USSD,Active
+FT-C01406,Tunde Adebayo,43,Female,Lagos,SME,Premium,66,95.7,100k-249k,Web,Active
+FT-C01407,Amina Mohammed,46,Prefer not to say,Lagos,Everyday,Current,95,75.5,500k-999k,Mobile App,Dormant
+FT-C01408,Zainab Usman,38,Male,Lagos,Premium,Savings,92,59,1m+,USSD,Active
+FT-C01409,Ada Mohammed,28,Female,Enugu,Everyday,Savings,71,52.7,Below 100k,Mobile App,Active
+FT-C01410,Mariam Williams,57,Male,Abuja,Premium,Savings,94,62.3,250k-499k,Web,Active
+FT-C01411,Ibrahim Garba,28,Female,Port Harcourt,SME,Savings,43,89.8,100k-249k,Mobile App,Active
+FT-C01412,Zainab Okafor,53,Female,Enugu,Everyday,Savings,62,61.8,Below 100k,Web,Active
+FT-C01413,David Garba,56,Prefer not to say,Kano,Everyday,Savings,71,86.9,100k-249k,Mobile App,Dormant
+FT-C01414,Grace Bello,57,Male,Lagos,Student,Savings,93,79.7,250k-499k,Mobile App,Dormant
+FT-C01415,Ibrahim Nwosu,52,Prefer not to say,Port Harcourt,Student,Current,24,98.9,Below 100k,Mobile App,Active
+FT-C01416,Ada Mohammed,51,Female,Abuja,Everyday,Savings,39,71.6,100k-249k,Mobile App,Active
+FT-C01417,Grace Garba,64,Male,Benin City,Everyday,Savings,68,67.1,Below 100k,USSD,Active
+FT-C01418,David Ibrahim,41,Female,Kano,SME,Savings,93,87.8,100k-249k,Mobile App,Active
+FT-C01419,Tunde Eze,39,Female,Ibadan,Student,Savings,44,51.2,100k-249k,Mobile App,Active
+FT-C01420,Chiamaka Adeyemi,22,Male,Abuja,Everyday,Savings,5,60,500k-999k,USSD,Active
+FT-C01421,Emeka Nwosu,50,Female,Benin City,Everyday,Savings,55,37.8,250k-499k,Web,Active
+FT-C01422,Mariam Usman,53,Male,Lagos,Premium,Premium,93,45.4,500k-999k,Mobile App,Active
+FT-C01423,Zainab Ojo,64,Male,Lagos,Everyday,Savings,30,100,100k-249k,Mobile App,Active
+FT-C01424,Yusuf Usman,37,Female,Lagos,Everyday,Current,29,80.5,100k-249k,Mobile App,Active
+FT-C01425,Blessing Eze,36,Male,Lagos,SME,Premium,26,43.3,100k-249k,USSD,Active
+FT-C01426,Samuel Usman,52,Male,Lagos,Everyday,Current,83,89.5,Below 100k,Web,Active
+FT-C01427,Ibrahim Adeyemi,60,Female,Benin City,Student,Savings,26,55.3,250k-499k,USSD,Active
+FT-C01428,Chiamaka Okafor,34,Male,Kaduna,Everyday,Premium,37,79.5,100k-249k,Mobile App,Active
+FT-C01429,Tunde Okafor,62,Male,Lagos,Student,Savings,91,79.3,100k-249k,Mobile App,Dormant
+FT-C01430,Ada Ojo,60,Female,Lagos,Student,Savings,94,98,250k-499k,Mobile App,Dormant
+FT-C01431,Amina Ojo,51,Male,Lagos,Everyday,Premium,53,58.3,100k-249k,Web,Active
+FT-C01432,Samuel Williams,26,Prefer not to say,Lagos,Premium,Current,30,54.7,1m+,Mobile App,Active
+FT-C01433,Daniel Adebayo,43,Female,Lagos,Everyday,Savings,3,19.6,100k-249k,Mobile App,Active
+FT-C01434,Grace Ibrahim,19,Male,Enugu,SME,Savings,43,65.8,250k-499k,Mobile App,Active
+FT-C01435,David Nwosu,26,Female,Lagos,SME,Savings,7,81.1,100k-249k,Mobile App,Active
+FT-C01436,Emeka Nwosu,26,Male,Abuja,Everyday,Savings,49,83.5,1m+,Web,Active
+FT-C01437,Chiamaka Bello,57,Male,Lagos,Everyday,Savings,73,90.5,100k-249k,Mobile App,Active
+FT-C01438,Ibrahim Usman,34,Female,Benin City,Everyday,Premium,41,73.2,250k-499k,Mobile App,Active
+FT-C01439,David Eze,18,Female,Kano,Student,Premium,77,77.1,Below 100k,Mobile App,Active
+FT-C01440,Ada Usman,42,Male,Kaduna,Everyday,Premium,79,69.2,500k-999k,USSD,Active
+FT-C01441,Grace Adebayo,60,Female,Kano,Everyday,Savings,54,80.7,100k-249k,Mobile App,Restricted
+FT-C01442,Samuel Adebayo,57,Male,Lagos,Everyday,Current,69,51.2,100k-249k,Mobile App,Active
+FT-C01443,Ada Nwosu,59,Female,Lagos,Everyday,Premium,93,42.6,500k-999k,Mobile App,Active
+FT-C01444,Mariam Williams,42,Male,Ibadan,Student,Premium,91,53.1,1m+,Mobile App,Active
+FT-C01445,Ibrahim Ibrahim,56,Male,Abuja,Everyday,Savings,27,71.8,100k-249k,USSD,Active
+FT-C01446,Grace Usman,52,Male,Port Harcourt,Premium,Savings,8,44.6,500k-999k,Mobile App,Active
+FT-C01447,Fatima Eze,20,Female,Lagos,Everyday,Savings,32,56.6,Below 100k,USSD,Active
+FT-C01448,Tunde Adebayo,54,Male,Lagos,Everyday,Savings,84,57.2,500k-999k,Mobile App,Active
+FT-C01449,Grace Okafor,61,Male,Port Harcourt,Premium,Current,64,82.1,250k-499k,USSD,Active
+FT-C01450,Amina Usman,61,Female,Port Harcourt,SME,Current,10,79.9,250k-499k,Web,Active
+FT-C01451,Emeka Mohammed,47,Female,Kano,Student,Savings,13,69.3,500k-999k,Mobile App,Active
+FT-C01452,Yusuf Okafor,55,Female,Lagos,Everyday,Savings,63,76.1,500k-999k,Web,Active
+FT-C01453,Blessing Adeyemi,51,Male,Port Harcourt,Everyday,Savings,93,76.5,100k-249k,Mobile App,Active
+FT-C01454,Zainab Bello,29,Male,Lagos,SME,Savings,35,61.5,500k-999k,Mobile App,Active
+FT-C01455,Zainab Garba,36,Female,Lagos,Everyday,Savings,61,58.2,Below 100k,Mobile App,Active
+FT-C01456,Chiamaka Adeyemi,54,Male,Abuja,Everyday,Current,54,95.7,500k-999k,Mobile App,Active
+FT-C01457,Ada Adeyemi,61,Female,Lagos,SME,Savings,8,23.2,250k-499k,Web,Active
+FT-C01458,Grace Williams,34,Female,Lagos,Student,Current,29,54.7,Below 100k,Mobile App,Active
+FT-C01459,Ibrahim Okafor,27,Male,Lagos,SME,Savings,95,64.3,250k-499k,Web,Active
+FT-C01460,Grace Williams,64,Male,Lagos,SME,Savings,41,78.1,250k-499k,Mobile App,Active
+FT-C01461,Ibrahim Mohammed,29,Male,Lagos,SME,Savings,30,88.4,250k-499k,Mobile App,Active
+FT-C01462,David Ibrahim,33,Female,Lagos,Everyday,Premium,86,100,100k-249k,USSD,Active
+FT-C01463,Ada Nwosu,41,Male,Lagos,Everyday,Savings,21,66.3,100k-249k,Web,Active
+FT-C01464,Ibrahim Nwosu,36,Male,Lagos,Premium,Current,76,67.6,500k-999k,Web,Active
+FT-C01465,Ada Eze,25,Female,Ibadan,Premium,Savings,11,74.5,100k-249k,Web,Active
+FT-C01466,Chiamaka Nwosu,48,Male,Lagos,Everyday,Premium,2,58.4,100k-249k,USSD,Active
+FT-C01467,Daniel Usman,38,Male,Lagos,Everyday,Current,50,46.7,250k-499k,Mobile App,Active
+FT-C01468,Yusuf Okafor,34,Male,Lagos,Everyday,Savings,41,66.3,Below 100k,Mobile App,Active
+FT-C01469,Tunde Eze,40,Female,Ibadan,Premium,Current,66,81.4,250k-499k,Mobile App,Active
+FT-C01470,Emeka Mohammed,54,Male,Enugu,Everyday,Savings,3,63.6,250k-499k,Mobile App,Active
+FT-C01471,Grace Mohammed,33,Male,Kano,Everyday,Premium,80,75.4,250k-499k,Mobile App,Active
+FT-C01472,Ibrahim Okafor,23,Female,Kano,Premium,Savings,51,34.4,100k-249k,Mobile App,Active
+FT-C01473,Chiamaka Nwosu,25,Male,Abuja,Student,Savings,68,68.3,100k-249k,Mobile App,Active
+FT-C01474,Ada Ojo,42,Male,Ibadan,Everyday,Current,87,60.7,100k-249k,USSD,Active
+FT-C01475,Grace Eze,35,Female,Port Harcourt,Premium,Current,84,45,500k-999k,Web,Active
+FT-C01476,Zainab Okafor,42,Female,Lagos,Student,Savings,25,79.8,Below 100k,Mobile App,Active
+FT-C01477,Tunde Adeyemi,29,Male,Lagos,Everyday,Current,30,100,1m+,Mobile App,Active
+FT-C01478,Amina Ibrahim,32,Male,Lagos,Everyday,Savings,82,85.8,250k-499k,Mobile App,Active
+FT-C01479,Grace Williams,43,Male,Enugu,Everyday,Savings,11,87,500k-999k,Mobile App,Active
+FT-C01480,David Eze,58,Female,Port Harcourt,Everyday,Current,93,80.8,100k-249k,Web,Active
+FT-C01481,Emeka Adebayo,62,Prefer not to say,Kano,SME,Savings,17,79.6,100k-249k,Mobile App,Active
+FT-C01482,Samuel Usman,43,Female,Abuja,Everyday,Savings,26,35.6,500k-999k,Mobile App,Active
+FT-C01483,Chiamaka Bello,64,Female,Abuja,Premium,Current,23,65.7,Below 100k,USSD,Active
+FT-C01484,David Williams,49,Male,Lagos,Everyday,Savings,56,77.2,Below 100k,Web,Active
+FT-C01485,Mariam Ibrahim,27,Female,Lagos,Everyday,Current,52,77.6,100k-249k,Web,Active
+FT-C01486,Mariam Okafor,33,Female,Benin City,Premium,Savings,48,90.9,1m+,Web,Active
+FT-C01487,Fatima Nwosu,24,Female,Port Harcourt,Everyday,Savings,20,49.4,250k-499k,Mobile App,Active
+FT-C01488,Grace Bello,34,Female,Lagos,Everyday,Savings,2,78.9,250k-499k,Mobile App,Active
+FT-C01489,Blessing Eze,40,Female,Benin City,Everyday,Current,88,48.8,250k-499k,Web,Restricted
+FT-C01490,Chiamaka Adebayo,43,Prefer not to say,Lagos,Everyday,Current,31,64.2,100k-249k,Web,Active
+FT-C01491,Tunde Nwosu,38,Female,Kaduna,Premium,Savings,27,66.9,500k-999k,Mobile App,Restricted
+FT-C01492,Zainab Mohammed,39,Male,Abuja,Everyday,Savings,2,83.5,100k-249k,Mobile App,Active
+FT-C01493,Daniel Adebayo,24,Male,Lagos,SME,Premium,78,81.4,500k-999k,Mobile App,Active
+FT-C01494,David Bello,31,Male,Lagos,Premium,Savings,4,70.2,100k-249k,Mobile App,Active
+FT-C01495,Yusuf Mohammed,32,Female,Lagos,Everyday,Premium,13,29.3,100k-249k,Mobile App,Active
+FT-C01496,Grace Adeyemi,24,Male,Lagos,Everyday,Savings,35,76,250k-499k,Mobile App,Active
+FT-C01497,Zainab Adebayo,26,Male,Ibadan,Premium,Current,72,63.2,100k-249k,Mobile App,Active
+FT-C01498,Tunde Ojo,65,Male,Enugu,Student,Savings,66,93.1,250k-499k,Mobile App,Active
+FT-C01499,Samuel Adebayo,25,Male,Benin City,Everyday,Premium,6,88.8,100k-249k,Mobile App,Active
+FT-C01500,Blessing Adebayo,40,Male,Lagos,Student,Current,31,51.1,100k-249k,Web,Active
