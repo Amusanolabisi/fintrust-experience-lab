@@ -46,6 +46,10 @@ fintrust-digital-bank-analytics/
 Six KPI cards, charts for customer segment, transaction type, channel, weekday pattern, monthly trend and risk-review rate by segment and channel (with a toggle to a success-rate view), plus slicers for segment, channel, transaction type and date range.
 
 ---
+## Final presentation
+[Watch the video](https://drive.google.com/file/d/1MSAarwm54MzcEq4Thk7X07UBMmeS2Ivp/view?usp=sharing)
+
+---
 
 ## KPI definitions
 
